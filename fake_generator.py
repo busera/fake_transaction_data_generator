@@ -94,12 +94,33 @@ def apply_irregularities(transactions, config):
     """
     Apply irregularities to the transactions based on the configuration.
 
+    This function applies various types of irregularities to the transactions
+    as specified in the configuration. It also includes cumulative irregularities
+    if enabled in the config.
+
     Args:
-        transactions (list): The list of transactions to apply irregularities to.
+        transactions (list): A list of transaction records to potentially modify.
+            Each transaction is expected to be a list or tuple containing
+            transaction details.
         config (dict): The configuration dictionary containing irregularity settings.
+            Expected to have an 'irregularities' key with sub-dictionaries for
+            each irregularity type, including 'cumulative_irregularity'.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        list: A list of tuples, each containing:
+            - transaction_id (str): The ID of the modified transaction.
+            - irregularity_type (str): The type of irregularity applied.
+            - description (str): A description of the modification made.
+
+    Prints:
+        - The total number of irregularities to be applied (including cumulative).
+        - A list of irregularity types to be applied.
+        - A description of each applied irregularity as it's processed.
+
+    Note:
+        This function modifies the `transactions` list in-place. The returned list
+        only contains information about the applied irregularities, not the
+        modified transactions themselves.
     """
     irregularity_functions = {
         'high_amount': high_amount,
@@ -116,44 +137,83 @@ def apply_irregularities(transactions, config):
         'round_number_bias': round_number_bias
     }
 
-    num_irregularities = int(len(transactions) * config.get('irregularity_percentage', 0.05))
-    enabled_irregularities = config.get('enabled_irregularities', [])
+    irregularity_config = config.get('irregularities', {})
+    total_irregularities = sum(irregularity_config.get(irr, {}).get('count', 0) for irr in irregularity_functions.keys())
     
-    if not enabled_irregularities:
-        print("Warning: No irregularities enabled in config. Skipping irregularity application.")
-        return
+    # Add cumulative irregularity count if enabled
+    cumulative_config = irregularity_config.get('cumulative_irregularity', {})
+    if cumulative_config.get('enabled', False):
+        total_irregularities += cumulative_config.get('count', 0)
+    
+    print(f"Total irregularities to apply: {total_irregularities}")
+    
+    applied_irregularities = []
+    irregularities_to_apply = []
 
-    for _ in range(num_irregularities):
+    for irregularity_type, irregularity_function in irregularity_functions.items():
+        count = irregularity_config.get(irregularity_type, {}).get('count', 0)
+        irregularities_to_apply.extend([irregularity_type] * count)
+
+    random.shuffle(irregularities_to_apply)
+    
+    print(f"Irregularities to apply: {irregularities_to_apply}")
+
+    for irregularity_type in irregularities_to_apply:
         index = random.randint(0, len(transactions) - 1)
-        irregularity_type = random.choice(enabled_irregularities)
-        if irregularity_type in irregularity_functions:
-            irregularity_functions[irregularity_type](transactions, index, config)
-        else:
-            print(f"Warning: Unknown irregularity type '{irregularity_type}'. Skipping.")
+        description = irregularity_functions[irregularity_type](transactions, index, config)
+        applied_irregularities.append((transactions[index][0], irregularity_type, description))
+        print(f"Applied {irregularity_type}: {description}")
+
+    return applied_irregularities
 
 def apply_cumulative_irregularity(transactions, config):
     """
-    Apply cumulative irregularity to the transactions.
+    Apply cumulative irregularity to the transactions based on the configuration.
+
+    This function applies a cumulative irregularity to a subset of transactions.
+    The number of affected transactions is determined by the 'count' specified
+    in the configuration. The irregularity increases transaction amounts slightly,
+    stopping when either the count is reached or a cumulative threshold is exceeded.
 
     Args:
-        transactions (list): The list of transactions to apply cumulative irregularity to.
-        config (dict): The configuration dictionary containing cumulative irregularity settings.
+        transactions (list): A list of transaction records to potentially modify.
+        config (dict): The configuration dictionary containing irregularity settings.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        list: A list of tuples, each containing:
+            - transaction_id (str): The ID of the modified transaction.
+            - irregularity_type (str): Always 'cumulative_irregularity'.
+            - description (str): A description of the modification made.
+
+    The function uses the following configuration parameters:
+        - irregularities.cumulative_irregularity.enabled (bool): Whether to apply this irregularity.
+        - irregularities.cumulative_irregularity.count (int): Maximum number of transactions to modify.
+        - irregularities.cumulative_irregularity.threshold (float): Cumulative increase limit as a fraction of total expenses.
+
+    If the cumulative irregularity is not enabled in the config, an empty list is returned.
     """
-    if 'cumulative_irregularity' not in config.get('enabled_irregularities', []):
-        return
+    applied_irregularities = []
+    irregularity_config = config.get('irregularities', {}).get('cumulative_irregularity', {})
+    if not irregularity_config.get('enabled', False):
+        return applied_irregularities
+
+    count = irregularity_config.get('count', 0)
     total_expenses = sum(t[3] for t in transactions if t[2] in ['Purchase', 'Payment'])
-    threshold = total_expenses * config.get('cumulative_threshold', 0.005)
+    threshold = total_expenses * irregularity_config.get('threshold', 0.005)
     cumulative_irregular = 0
+
     for transaction in transactions:
-        if transaction[2] in ['Purchase', 'Payment'] and random.random() < 0.1:
+        if len(applied_irregularities) >= count:
+            break
+        if transaction[2] in ['Purchase', 'Payment']:
             irregular_amount = round(random.uniform(1, 10), 2)
             transaction[3] += irregular_amount
             cumulative_irregular += irregular_amount
+            applied_irregularities.append((transaction[0], 'cumulative_irregularity', f"Amount increased by {irregular_amount:.2f}"))
             if cumulative_irregular > threshold:
                 break
+
+    return applied_irregularities
 
 # Irregularity functions
 def high_amount(transactions, index, config):
@@ -166,9 +226,11 @@ def high_amount(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
+    original_amount = transactions[index][3]
     transactions[index][3] = round(random.uniform(50000, 100000), 2)
+    return f"Amount increased from {original_amount:.2f} to {transactions[index][3]:.2f}"
 
 def frequency_change(transactions, index, config):
     """
@@ -180,11 +242,14 @@ def frequency_change(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
     if any(rt['description'] in transactions[index][5] for rt in config.get('recurring_transactions', [])):
+        original_date = transactions[index][1]
         new_day = random.randint(1, 28)
         transactions[index][1] = transactions[index][1][:8] + f"{new_day:02d}"
+        return f"Date changed from {original_date} to {transactions[index][1]}"
+    return "No change (not a recurring transaction)"
 
 def double_spend(transactions, index, config):
     """
@@ -196,12 +261,14 @@ def double_spend(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
     duplicate = transactions[index].copy()
     duplicate[0] = generate_transaction_id()
+    original_date = duplicate[1]
     duplicate[1] = (datetime.strptime(duplicate[1], '%Y-%m-%d') + timedelta(minutes=random.randint(1, 60))).strftime('%Y-%m-%d %H:%M')
     transactions.append(duplicate)
+    return f"Transaction duplicated with new ID {duplicate[0]} and date changed from {original_date} to {duplicate[1]}"
 
 def missing_id(transactions, index, config):
     """
@@ -213,9 +280,11 @@ def missing_id(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
+    original_id = transactions[index][0]
     transactions[index][0] = ''
+    return f"Transaction ID removed (original ID: {original_id})"
 
 def incorrect_date(transactions, index, config):
     """
@@ -227,10 +296,12 @@ def incorrect_date(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
+    original_date = transactions[index][1]
     future_date = config['end_date'] + timedelta(days=random.randint(1, 30))
     transactions[index][1] = future_date.strftime('%Y-%m-%d')
+    return f"Date changed from {original_date} to future date {transactions[index][1]}"
 
 def mismatched_description(transactions, index, config):
     """
@@ -242,12 +313,14 @@ def mismatched_description(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
+    original_description = transactions[index][5]
     if transactions[index][2] == 'Deposit':
         transactions[index][5] = 'Withdrawal - Miscellaneous'
     elif transactions[index][2] == 'Withdrawal':
         transactions[index][5] = 'Deposit - Miscellaneous'
+    return f"Description changed from '{original_description}' to '{transactions[index][5]}'"
 
 def wrong_account(transactions, index, config):
     """
@@ -259,9 +332,11 @@ def wrong_account(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
+    original_account = transactions[index][4]
     transactions[index][4] = f"WRONG-{random.randint(100, 999)}"
+    return f"Account number changed from {original_account} to {transactions[index][4]}"
 
 def personal_expense(transactions, index, config):
     """
@@ -273,13 +348,19 @@ def personal_expense(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
     personal_vendors = config.get('personal_vendors', ["Personal Vendor"])
     personal_descriptions = config.get('personal_expense_descriptions', ["Personal Expense"])
+    original_vendor = transactions[index][6]
+    original_description = transactions[index][5]
+    original_amount = transactions[index][3]
     transactions[index][6] = random.choice(personal_vendors)
     transactions[index][5] = random.choice(personal_descriptions)
     transactions[index][3] = round(random.uniform(100, 5000), 2)
+    return f"Changed to personal expense: Vendor from '{original_vendor}' to '{transactions[index][6]}', " \
+           f"Description from '{original_description}' to '{transactions[index][5]}', " \
+           f"Amount from {original_amount:.2f} to {transactions[index][3]:.2f}"
 
 def benford_violation(transactions, index, config):
     """
@@ -291,11 +372,13 @@ def benford_violation(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
+    original_amount = transactions[index][3]
     first_digit = random.choice([5, 6])
     rest_digits = random.randint(0, 999999)
     transactions[index][3] = float(f"{first_digit}.{rest_digits:06d}") * 1000
+    return f"Amount changed from {original_amount:.2f} to {transactions[index][3]:.2f} (violating Benford's Law)"
 
 def subtle_skimming(transactions, index, config):
     """
@@ -307,10 +390,14 @@ def subtle_skimming(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
+    affected_transactions = []
     for i in range(index, min(index + 10, len(transactions))):
+        original_amount = transactions[i][3]
         transactions[i][3] *= 0.99
+        affected_transactions.append(f"Transaction {transactions[i][0]}: {original_amount:.2f} to {transactions[i][3]:.2f}")
+    return f"Subtle skimming applied to {len(affected_transactions)} transactions: " + ", ".join(affected_transactions)
 
 def seasonal_anomaly(transactions, index, config):
     """
@@ -322,11 +409,24 @@ def seasonal_anomaly(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
-    if datetime.strptime(transactions[index][1], '%Y-%m-%d').month in [1, 2, 12]:
+    date_str = transactions[index][1]
+    # Handle potential time component in the date string
+    if ' ' in date_str:
+        date_str = date_str.split(' ')[0]  # Take only the date part
+    
+    transaction_date = datetime.strptime(date_str, '%Y-%m-%d')
+    
+    if transaction_date.month in [1, 2, 12]:  # Winter months
+        original_description = transactions[index][5]
+        original_amount = transactions[index][3]
         transactions[index][5] = "Summer Equipment Purchase"
         transactions[index][3] = round(random.uniform(5000, 10000), 2)
+        return f"Seasonal anomaly: Description changed from '{original_description}' to '{transactions[index][5]}', " \
+               f"Amount changed from {original_amount:.2f} to {transactions[index][3]:.2f} during winter month"
+    return "No change (not in winter months)"
+
 
 def round_number_bias(transactions, index, config):
     """
@@ -338,9 +438,11 @@ def round_number_bias(transactions, index, config):
         config (dict): The configuration dictionary.
 
     Returns:
-        None: This function modifies the transactions list in-place.
+        str: Description of the applied irregularity.
     """
-    transactions[index][3] = round(transactions[index][3], -2)
+    original_amount = transactions[index][3]
+    transactions[index][3] = round(transactions[index][3], -2)  # Round to nearest 100
+    return f"Amount rounded from {original_amount:.2f} to {transactions[index][3]:.2f}"
 
 def load_config(config_file):
     """
@@ -358,6 +460,7 @@ def load_config(config_file):
     config['end_date'] = datetime.strptime(config['end_date'], '%Y-%m-%d')
     return config
 
+
 def save_to_csv(transactions, filename):
     """
     Save the transactions to a CSV file.
@@ -374,43 +477,73 @@ def save_to_csv(transactions, filename):
         writer.writerow(['Transaction ID', 'Date', 'Type', 'Amount', 'Account', 'Description', 'Vendor'])
         writer.writerows(transactions)
 
-def generate_transactions(config):
+def save_irregularities_to_csv(irregularities, filename):
     """
-    Generate all transactions based on the configuration.
+    Save the list of irregularities to a CSV file.
 
     Args:
-        config (dict): The configuration dictionary.
+        irregularities (list): The list of irregularities to save.
+        filename (str): The name of the output CSV file.
 
     Returns:
-        list: A sorted list of all generated transactions.
+        None: This function writes to a file.
     """
+    print(f"Saving {len(irregularities)} irregularities to {filename}")
+    with open(filename, 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(['Transaction ID', 'Irregularity Type', 'Description'])
+        writer.writerows(irregularities)
+    print(f"Finished saving irregularities to {filename}")
+
+def generate_transactions(config):
     transactions = []
     transactions.extend(generate_recurring_transactions(config))
     transactions.extend(generate_random_transactions(config))
-    apply_irregularities(transactions, config)
-    apply_cumulative_irregularity(transactions, config)
-    return sorted(transactions, key=lambda x: x[1])  # Sort by date
+    
+    irregularities = []
+    double_spend_count = 0
+    for irregularity in apply_irregularities(transactions, config):
+        if irregularity[1] == 'double_spend':
+            double_spend_count += 1
+        irregularities.append(irregularity)
+    
+    cumulative_irregularities = apply_cumulative_irregularity(transactions, config)
+    if cumulative_irregularities:
+        irregularities.extend(cumulative_irregularities)
+
+    print(f"Double spend irregularities: {double_spend_count}")
+    print(f"Other irregularities: {len(irregularities) - double_spend_count}")
+    print(f"Cumulative irregularities: {len(cumulative_irregularities)}")
+    
+    return sorted(transactions, key=lambda x: x[1]), irregularities
 
 def main():
     """
     The main function to run the script.
 
     This function parses command-line arguments, loads the configuration,
-    generates transactions, and saves them to a CSV file.
+    generates transactions, and saves them to CSV files.
 
     Returns:
         None: This function executes the script's main logic.
     """
     parser = argparse.ArgumentParser(description="Generate fake transaction data with configurable irregularities.")
     parser.add_argument('-c', '--config', default='config.json', help='Path to the configuration file')
-    parser.add_argument('-o', '--output', default='fake_transactions.csv', help='Output CSV file name')
+    parser.add_argument('-o', '--output', default='fake_transactions.csv', help='Output CSV file name for transactions')
+    parser.add_argument('-a', '--anomalies', default='irregularities.csv', help='Output CSV file name for irregularities')
     args = parser.parse_args()
 
     config = load_config(args.config)
-    transactions = generate_transactions(config)
+    transactions, irregularities = generate_transactions(config)
+    
+    print(f"Number of irregularities before saving: {len(irregularities)}")
+    print(f"First few irregularities: {irregularities[:5]}")  # Print the first 5 irregularities
+
     save_to_csv(transactions, args.output)
+    save_irregularities_to_csv(irregularities, args.anomalies)
 
     print(f"{len(transactions)} fake transactions have been generated and saved to '{args.output}'")
+    print(f"{len(irregularities)} irregularities have been logged and saved to '{args.anomalies}'")
 
 if __name__ == "__main__":
     main()

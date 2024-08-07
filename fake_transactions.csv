@@ -1,0 +1,1011 @@
+Transaction ID,Date,Type,Amount,Account,Description,Vendor
+4d6b1856-b7f9-4b20-871b-17405833a369,2023-01-01,Payment,2075.5699999999997,ACCT-3132,Office Rent,Prime Office Rentals
+1c3e26e7-d231-471f-9c08-72c3163d9614,2023-01-01,Purchase,5993.68,ACCT-5842,Purchase - Equipment,ABC Office Supplies
+d012f885-d011-42d3-895e-b288a68da775,2023-01-01,Withdrawal,8455.2633,ACCT-9520,Withdrawal - Miscellaneous,XYZ Tech Solutions
+b2d0da19-264c-4055-8d03-097ef806940f,2023-01-01,Deposit,3144.25,ACCT-9513,Deposit - Office Supplies,ABC Office Supplies
+aba7b230-e8c8-4cd7-bb7a-4ddffd385343,2023-01-03,Purchase,1414.2249,ACCT-9537,Purchase - Equipment,123 Cleaning Services
+56c338ab-eab6-4fe0-8299-0b3cc0f1c4f7,2023-01-03,Transfer,2968.4853,ACCT-1851,Transfer - Equipment,ABC Office Supplies
+a81f63c3-7fa9-47e6-a565-2b5413cf5d60,2023-01-04,Withdrawal,4695.0,ACCT-9678,Withdrawal - Services,ABC Office Supplies
+4bb3453a-7893-4025-bd43-1c5cf93f308f,2023-01-04,Purchase,8074.1628,ACCT-1974,Purchase - Services,XYZ Tech Solutions
+491c42da-1ba7-44df-a605-87e64fc82e88,2023-01-05,Transfer,5590.4,ACCT-7501,Transfer - Services,123 Cleaning Services
+6d50b151-0cdb-4eee-a364-128292ba32e5,2023-01-05,Withdrawal,8193.25,ACCT-9488,Withdrawal - Office Supplies,123 Cleaning Services
+584a6fb7-20e1-42ca-ab61-748c452ed5c8,2023-01-05,Payment,3694.1949,ACCT-3085,Payment - Equipment,123 Cleaning Services
+02627eb3-c8db-473b-b68a-8da2dc964331,2023-01-05,Deposit,1927.81,ACCT-4623,Deposit - Miscellaneous,XYZ Tech Solutions
+d56bbb1b-5824-480f-ae1e-a3fb8fda469b,2023-01-05,Payment,3184.66,ACCT-8656,Payment - Office Supplies,XYZ Tech Solutions
+2b788c0a-145c-4cc1-af06-3e3e66a2b5f8,2023-01-06,Deposit,1398.58,ACCT-6969,Deposit - Office Supplies,123 Cleaning Services
+628ac65c-434e-46c2-9f3b-5ef7340ecd02,2023-01-06,Purchase,7389.48,ACCT-1186,Purchase - Services,ABC Office Supplies
+f2f0e2b6-3b77-4678-91cc-23b7013cb696,2023-01-06,Deposit,4354.36,ACCT-7782,Deposit - Equipment,ABC Office Supplies
+dc159d4f-e878-4fd0-a069-7b380eb03277,2023-01-06,Payment,3588.910578,ACCT-9304,Payment - Miscellaneous,ABC Office Supplies
+1b97d131-4ad5-41f3-bcaf-e6f0e84c032e,2023-01-07,Payment,1777.42,ACCT-3013,Payment - Miscellaneous,ABC Office Supplies
+1206f415-3da9-4a24-a99a-5f99d5ecf60a,2023-01-08,Purchase,7279.79,ACCT-2542,Purchase - Miscellaneous,XYZ Tech Solutions
+2634b5a7-2354-4ba5-b14a-ee9ca5a2fbff,2023-01-08,Deposit,7834.21,ACCT-1837,Deposit - Office Supplies,XYZ Tech Solutions
+0ec1762e-688c-4b3a-8580-90bcd45fa33c,2023-01-09,Purchase,4618.528200000001,ACCT-5547,Purchase - Equipment,123 Cleaning Services
+8caa0c72-e4cc-40a7-be62-ae0b15b95085,2023-01-09,Transfer,4626.66,ACCT-3293,Transfer - Miscellaneous,123 Cleaning Services
+5ffa1825-5aaa-4e60-bbad-1b0f5a24f3b8,2023-01-09,Withdrawal,4176.66,ACCT-3201,Withdrawal - Equipment,123 Cleaning Services
+6e99408a-60bf-46f0-8c37-40841c28b505,2023-01-09,Transfer,1209.7,ACCT-6940,Transfer - Equipment,XYZ Tech Solutions
+5abab6d6-8de0-4787-b34f-de0642196c66,2023-01-09,Transfer,3892.21,ACCT-7167,Transfer - Office Supplies,XYZ Tech Solutions
+35c59f6c-a969-4917-9a37-b5e78dfe8fd8,2023-01-10,Purchase,4066.51,ACCT-7570,Purchase - Miscellaneous,XYZ Tech Solutions
+c02ad31d-d846-43f1-964d-782fdedf75ea,2023-01-10,Payment,3800.0,ACCT-1740,Payment - Miscellaneous,123 Cleaning Services
+46ffa199-644f-48f5-945c-53472a56d8aa,2023-01-11,Transfer,4185.71,ACCT-3621,Transfer - Equipment,123 Cleaning Services
+23ab663e-97fb-4da2-902d-bbec150bc1c1,2023-01-11,Withdrawal,6220.51,ACCT-6500,Withdrawal - Equipment,ABC Office Supplies
+605aa07c-f7cb-450e-82a6-6649802b0fab,2023-01-12,Deposit,7915.84,ACCT-9338,Deposit - Services,123 Cleaning Services
+ec57c8a6-d7c1-4381-823f-95ba43a4c9d0,2023-01-13,Transfer,1206.07,ACCT-8400,Transfer - Equipment,ABC Office Supplies
+220fed63-bbe5-4515-8eee-8ba85d3e86cf,2023-01-14,Withdrawal,3152.85,ACCT-4375,Withdrawal - Miscellaneous,XYZ Tech Solutions
+c6724872-521e-4438-9048-97820cec8d14,2023-01-14,Deposit,3295.38,ACCT-8837,Deposit - Equipment,ABC Office Supplies
+e33986e1-4274-47f6-951d-02216ea0bcfe,2023-01-14,Transfer,1371.91,ACCT-7780,Transfer - Office Supplies,XYZ Tech Solutions
+d4a239bb-1f81-4747-aa13-58f27f55aaf7,2023-01-14,Withdrawal,3142.45,ACCT-6878,Withdrawal - Miscellaneous,123 Cleaning Services
+704920ef-3fcc-4905-ae28-618ea1eb4a86,2023-01-15,Payment,526.19,ACCT-2824,Monthly Utility Bill,City Power & Utilities
+2690e973-a93d-48ac-bdb8-ea69c4378b1d,2023-01-16,Payment,3609.32,ACCT-1116,Payment - Equipment,XYZ Tech Solutions
+a8be42d2-0316-4602-9698-65c968c02467,2023-01-16,Withdrawal,3812.41,ACCT-6741,Withdrawal - Office Supplies,123 Cleaning Services
+486bd6fc-f845-4776-b5d0-de64cc362981,2023-01-17,Purchase,88519.47,ACCT-6454,Purchase - Office Supplies,123 Cleaning Services
+762b6301-ae60-43b9-9660-ec3614e9625c,2023-01-18,Payment,8486.86,ACCT-2849,Payment - Services,ABC Office Supplies
+78ff1e54-0b57-4e91-9dcb-56908a1b0e48,2023-01-18,Deposit,3651.77,ACCT-6095,Deposit - Miscellaneous,ABC Office Supplies
+ae6f692a-705b-40d5-946d-7796193ed39e,2023-01-19,Transfer,8598.66,ACCT-9357,Transfer - Equipment,XYZ Tech Solutions
+32597786-af3a-4c16-b536-cd5934421155,2023-01-19,Transfer,1087.0485119999998,ACCT-7176,Transfer - Miscellaneous,123 Cleaning Services
+258807a4-d188-4cf0-81cc-8b392b45e3ee,2023-01-19,Deposit,1914.18,ACCT-8244,Deposit - Miscellaneous,123 Cleaning Services
+1294169a-ef60-40c7-9bf1-3c36416da5d6,2023-01-19,Transfer,3922.62,ACCT-8599,Transfer - Miscellaneous,ABC Office Supplies
+9e7df3d4-3d20-42b1-98a8-9e89038aef08,2023-01-20,Deposit,6246.53,ACCT-6163,Deposit - Equipment,ABC Office Supplies
+8498d951-a525-4e7d-9c64-c3e112e6a873,2023-01-20,Payment,6220.89,WRONG-269,Payment - Miscellaneous,XYZ Tech Solutions
+62d0e6c3-40fa-4117-9ad4-2ae9bebe0736,2023-01-21,Deposit,2177.34,ACCT-8075,Deposit - Services,ABC Office Supplies
+aaa32f3c-e306-4bb3-b9c7-37e6f92354bd,2023-01-21,Purchase,6769.8279,ACCT-6803,Purchase - Miscellaneous,123 Cleaning Services
+36d22a51-734b-46b8-8355-80e58c62c13a,2023-01-21,Payment,2743.45,ACCT-1437,Payment - Equipment,XYZ Tech Solutions
+6d471a88-c3e7-4bd9-8fb2-9a6870c9dabc,2023-01-21,Transfer,1142.51,ACCT-6570,Transfer - Equipment,XYZ Tech Solutions
+d7c5689b-f536-4a3c-b0bc-51bab938e9dc,2023-01-23,Transfer,7293.9636,ACCT-3762,Transfer - Miscellaneous,ABC Office Supplies
+7c87d9bd-62b6-41a7-aeb7-dfe36a5429bb,2023-01-24,Purchase,5182.1946,ACCT-7953,Purchase - Equipment,ABC Office Supplies
+8e63d37f-37ed-4613-81b6-ca6790d8402b,2023-01-25,Transfer,3091.27,ACCT-8858,Transfer - Services,XYZ Tech Solutions
+014de2d9-566b-4151-8067-cbcc64e10505,2023-01-25,Withdrawal,2381.76,ACCT-6222,Withdrawal - Office Supplies,123 Cleaning Services
+d338259a-b334-4587-9bca-d4fc0df1230f,2023-01-25,Transfer,3334.22,ACCT-4017,Transfer - Office Supplies,ABC Office Supplies
+bd7435d1-1d25-44ad-9c33-587f9e6ae548,2023-01-25,Transfer,1126.6101,ACCT-7854,Transfer - Equipment,123 Cleaning Services
+b824e7ab-3b5f-4eef-b450-a7fb04d1d3ba,2023-01-25,Transfer,2592.72,ACCT-3284,Transfer - Equipment,ABC Office Supplies
+64656d76-c63f-43fb-95fb-ded65ad0b68c,2023-01-26,Purchase,4505.7300000000005,ACCT-3625,Purchase - Services,123 Cleaning Services
+941e68ab-985d-4bfc-a394-dce00c70032d,2023-01-26,Purchase,8575.29,ACCT-7063,Purchase - Equipment,ABC Office Supplies
+b90dcc14-c940-4878-a3b9-5019dbeb1e9d,2023-01-26,Payment,4634.2593,ACCT-2123,Payment - Office Supplies,ABC Office Supplies
+87142e88-ab9f-4bef-9f7b-8b9ad4bc2d85,2023-01-27,Withdrawal,5762.68,ACCT-3585,Withdrawal - Equipment,123 Cleaning Services
+34c060ef-15ec-40f1-b44e-0275475195ee,2023-01-27,Withdrawal,1218.9177,ACCT-1436,Withdrawal - Equipment,123 Cleaning Services
+6ffd589c-fc9f-4cb5-bd16-bd8f38624d8e,2023-01-27,Withdrawal,1107.75,ACCT-3001,Withdrawal - Miscellaneous,ABC Office Supplies
+e3861845-fd58-4cb4-ba93-4f86bd9d1581,2023-01-28,Transfer,6439.44,ACCT-5475,Transfer - Services,ABC Office Supplies
+b37885bc-b81d-4cf3-bfd3-165ebd4ce3a7,2023-01-29,Purchase,6401.93,ACCT-5960,Purchase - Equipment,ABC Office Supplies
+c93495aa-88c1-4f15-9fe7-821dd88b8fa5,2023-01-29,Withdrawal,5085.8,ACCT-2969,Withdrawal - Services,ABC Office Supplies
+133ccedc-3472-47c5-bd54-9ef32b499dd7,2023-01-31,Purchase,4592.22,ACCT-8679,Purchase - Services,ABC Office Supplies
+588d2fe9-4c4b-41b8-a1e7-4055cadfffcf,2023-02-01,Payment,1987.96,ACCT-8328,Office Rent,Prime Office Rentals
+e2dfafa2-e3d5-4321-8ba4-5f6cb2d465a3,2023-02-01,Payment,1735.31,ACCT-8187,Payment - Miscellaneous,XYZ Tech Solutions
+2d459797-260a-4b7a-893e-5e253dfd6db6,2023-02-02,Payment,7609.54,ACCT-3359,Payment - Services,123 Cleaning Services
+f1646ebd-9515-4aae-ba70-e1f9e12c9622,2023-02-02,Payment,3317.21,ACCT-2966,Payment - Miscellaneous,XYZ Tech Solutions
+ca75f61b-dc17-440d-a8d7-8ffd7f3a61d3,2023-02-03,Withdrawal,1593.14,ACCT-8939,Client Entertainment,Luxury Resort & Spa
+31db655c-2710-48ea-8a7c-2ee612900d9e,2023-02-03,Deposit,1782.69,ACCT-7727,Deposit - Miscellaneous,ABC Office Supplies
+f8531d30-3084-4cab-9a2b-79e40647bb21,2023-02-03,Withdrawal,2412.69,ACCT-7766,Withdrawal - Office Supplies,XYZ Tech Solutions
+e18d6669-86af-43b5-8dc1-b50e19cf422c,2023-02-03,Payment,9143.46,ACCT-2738,Payment - Office Supplies,123 Cleaning Services
+970a02a6-c861-40b4-8e32-17b7cbee3eab,2023-02-03,Deposit,8574.9444,ACCT-4461,Deposit - Equipment,123 Cleaning Services
+f8390add-995c-45ee-be6d-331263a1876d,2023-02-03,Purchase,3155.59,ACCT-5028,Purchase - Equipment,XYZ Tech Solutions
+d0a3045e-f893-4e68-b06c-985be1e36760,2023-02-04,Payment,1624.3821,ACCT-3745,Payment - Office Supplies,123 Cleaning Services
+7110596a-88d9-4f8e-a26d-5e8a007ae818,2023-02-04,Payment,5697.21,ACCT-8391,Payment - Miscellaneous,123 Cleaning Services
+a3f1f27c-7edb-4692-8c75-1200a0f3fc30,2023-02-05,Transfer,2642.12,ACCT-9258,Transfer - Equipment,XYZ Tech Solutions
+0f17f997-1385-429d-ade7-453e4ee86169,2023-02-05,Deposit,5731.7,ACCT-3058,Deposit - Office Supplies,XYZ Tech Solutions
+1a528c93-4e55-485e-a760-3dde74c0f3c4,2023-02-05,Transfer,3534.29,ACCT-7745,Transfer - Equipment,123 Cleaning Services
+93226e41-53f1-4fba-841a-d6cc7764a07e,2023-02-05,Deposit,1000.33,ACCT-4015,Deposit - Office Supplies,ABC Office Supplies
+c0957641-56f0-46b3-9852-cc6a4c173bfe,2023-02-05,Withdrawal,4487.6898,ACCT-3716,Withdrawal - Services,ABC Office Supplies
+be5fb4b1-b02a-4aa6-aec5-4d253936b589,2023-02-05,Payment,4060.06,ACCT-9853,Payment - Services,123 Cleaning Services
+e7e44c43-0fb3-4b67-bb22-fa0b94cd2129,2023-02-06,Deposit,9449.38,ACCT-1656,Deposit - Office Supplies,123 Cleaning Services
+039a2861-5467-4f05-859b-fab4cfa44783,2023-02-06,Withdrawal,1475.6,ACCT-2305,Withdrawal - Services,ABC Office Supplies
+bad44aec-3f95-4200-84f5-cf3e5952a7fc,2023-02-07,Deposit,9839.36,ACCT-5347,Deposit - Services,123 Cleaning Services
+ee4d4b96-9746-4461-aa05-1295af9e8c39,2023-02-07,Payment,2683.16,ACCT-5933,Payment - Miscellaneous,XYZ Tech Solutions
+80a695b6-b8c7-4091-90ba-ed602013611c,2023-02-07,Purchase,6023.23,ACCT-5373,Purchase - Equipment,ABC Office Supplies
+eb4b105b-349a-4711-9204-cf0337bdaa44,2023-02-07,Payment,2685.09,ACCT-8904,Payment - Office Supplies,123 Cleaning Services
+27a21fa9-dbc5-4197-9a0f-6f4277caf65f,2023-02-07,Transfer,6680.364,ACCT-7208,Transfer - Services,ABC Office Supplies
+a5e91c45-6df8-46df-affe-ef77bee6b055,2023-02-08,Purchase,4530.26,ACCT-2306,Purchase - Office Supplies,123 Cleaning Services
+bf830f2f-32a0-4052-a8f9-06fe59e22254,2023-02-08,Transfer,1219.6997999999999,ACCT-7992,Transfer - Office Supplies,XYZ Tech Solutions
+d00babba-f11d-4263-9ddb-1159a11231cb,2023-02-09,Transfer,1769.83,ACCT-4400,Transfer - Miscellaneous,123 Cleaning Services
+e9300523-0869-44c7-bf14-73f6742b2de5,2023-02-09,Transfer,2650.87,ACCT-8143,Transfer - Equipment,123 Cleaning Services
+88c31fc7-7f62-46b3-be0a-c07b013bfcf1,2023-02-09,Payment,6632.06,WRONG-184,Payment - Equipment,XYZ Tech Solutions
+4f9e9237-93d1-44a3-8891-dbd932a136f9,2023-02-09,Payment,1134.41,ACCT-8129,Payment - Office Supplies,ABC Office Supplies
+efab3b5c-0f8c-4a52-a956-f3529ceb1de1,2023-02-10,Purchase,3050.24,ACCT-1001,Purchase - Equipment,ABC Office Supplies
+9d21a462-8f00-454c-94c3-c8a45ddb9f99,2023-02-10 00:48,Purchase,3019.7376,ACCT-1001,Purchase - Equipment,ABC Office Supplies
+8da08cca-112d-4125-9b6c-8e2bb85ef9f8,2023-02-11,Payment,2757.0,ACCT-2528,Payment - Office Supplies,ABC Office Supplies
+9acc5aec-179c-4260-8b9b-f04901144be9,2023-02-11,Deposit,1347.93,ACCT-3311,Deposit - Equipment,XYZ Tech Solutions
+63df3847-e460-4d47-adfd-d1c5e28d71a9,2023-02-11,Transfer,2817.7776,ACCT-3424,Transfer - Miscellaneous,ABC Office Supplies
+266b3eeb-3a27-4502-8569-b4254b0ba023,2023-02-12,Purchase,1807.95,ACCT-5823,Purchase - Office Supplies,XYZ Tech Solutions
+d2a9355d-86c9-4711-a694-90bfcdf2f5ff,2023-02-12,Deposit,99842.13,WRONG-583,Deposit - Miscellaneous,XYZ Tech Solutions
+325c7896-cdb5-4cfa-a309-a9b52bb4ae6b,2023-02-12,Payment,4646.31,ACCT-2934,Payment - Services,123 Cleaning Services
+fb05f930-aa62-4a8a-9527-c592f8fdef75,2023-02-12,Purchase,4824.87,ACCT-4239,Purchase - Miscellaneous,ABC Office Supplies
+be6195e8-3ea1-43eb-bbaa-6a54f9ff67e0,2023-02-12,Deposit,1252.59,ACCT-9156,Deposit - Office Supplies,ABC Office Supplies
+45aa11d3-42ba-4b29-a28b-d2615196b014,2023-02-12,Payment,2655.7047000000002,ACCT-7472,Payment - Equipment,123 Cleaning Services
+86ddeb38-27a3-4424-ae8f-f6aec3a95e49,2023-02-12,Withdrawal,1667.7837000000002,ACCT-2810,Withdrawal - Equipment,123 Cleaning Services
+7e46aed8-fced-475f-8d01-0f6467ad3016,2023-02-12,Purchase,2347.88,ACCT-6758,Purchase - Miscellaneous,123 Cleaning Services
+e8530fc6-c46c-428c-a09b-83547ea371f2,2023-02-13,Purchase,6489.2717999999995,ACCT-6022,Purchase - Office Supplies,XYZ Tech Solutions
+a6da2299-fec0-4d25-bbd7-452f202545cc,2023-02-13,Purchase,1265.64,ACCT-9823,Purchase - Equipment,XYZ Tech Solutions
+76bfecd8-64f7-403b-9ee9-c286e0d0928d,2023-02-13,Transfer,2741.54,ACCT-7179,Transfer - Miscellaneous,ABC Office Supplies
+eb5ade4a-a145-4b3c-9508-45f2ad99f863,2023-02-14,Transfer,6960.59,ACCT-6029,Transfer - Miscellaneous,ABC Office Supplies
+6230f243-01df-4606-a228-b7f0f7db1279,2023-02-14,Deposit,9225.38,ACCT-3152,Deposit - Office Supplies,XYZ Tech Solutions
+13f8b998-5ebe-41f4-a611-e60488b5a598,2023-02-14,Deposit,3105.0,ACCT-2432,Deposit - Miscellaneous,123 Cleaning Services
+8e0f7d3f-7835-47cc-a69b-81720fd21b3d,2023-02-15,Payment,529.49,ACCT-7658,Monthly Utility Bill,City Power & Utilities
+c55450db-b598-4afd-a346-c97ccaf390ef,2023-02-15,Transfer,1050.26,ACCT-2184,Transfer - Services,ABC Office Supplies
+bfb24482-8d7e-4301-ad95-f16706ed45d1,2023-02-15,Withdrawal,6320.53,ACCT-3855,Withdrawal - Office Supplies,ABC Office Supplies
+ab7e8783-aa1a-4e37-a8c9-84bb765db589,2023-02-15,Purchase,6601.87,ACCT-9908,Purchase - Miscellaneous,ABC Office Supplies
+acf3a2b9-0c47-4c10-bb5d-389ba1279ec9,2023-02-15,Withdrawal,4059.51,ACCT-8439,Client Entertainment,Designer Clothing Co.
+087eed1f-b51e-4e38-bbd7-266ed067aeb8,2023-02-15,Payment,1814.8779,ACCT-4687,Payment - Office Supplies,ABC Office Supplies
+214ff93a-b537-4f98-8c97-5fcd0c861153,2023-02-15,Deposit,2937.1221,ACCT-6136,Deposit - Services,XYZ Tech Solutions
+2b1f1e65-033e-41c0-9116-9810bdeea3b9,2023-02-15,Withdrawal,9416.88,ACCT-8009,Withdrawal - Miscellaneous,XYZ Tech Solutions
+74c8abb2-c883-4d4b-8446-b5737b7e1a22,2023-02-16,Deposit,2757.197718,ACCT-5875,Deposit - Equipment,ABC Office Supplies
+22effbb4-6887-4525-9864-6be9e2d39b39,2023-02-16,Deposit,6988.72,ACCT-2125,Deposit - Services,ABC Office Supplies
+cbbbdecc-e5ef-44f4-b54e-4e94c389e9b4,2023-02-16,Purchase,2318.96,ACCT-6899,Purchase - Services,ABC Office Supplies
+9c5a0ed2-37a2-4b7a-925f-0d52a03589f5,2023-02-17,Withdrawal,2108.92,ACCT-1545,Withdrawal - Miscellaneous,123 Cleaning Services
+747abd0d-6c64-40a6-b494-5ce38105e264,2023-02-17,Transfer,5207.183091,ACCT-5980,Transfer - Equipment,123 Cleaning Services
+583482ac-a7a9-4e6b-8a8f-5d281255cbe2,2023-02-17,Deposit,3473.77,ACCT-9035,Deposit - Equipment,XYZ Tech Solutions
+d97e3ddf-b561-448c-a17a-4378e6a6711f,2023-02-17,Deposit,5040.5355,ACCT-8569,Deposit - Equipment,123 Cleaning Services
+dcec1ce0-79c5-48d1-b612-b68b69d0722c,2023-02-17,Deposit,2838.528,ACCT-7322,Deposit - Miscellaneous,XYZ Tech Solutions
+d4e2860c-2c4f-450f-a63f-cda5795b8c21,2023-02-18,Withdrawal,5867.924,ACCT-3425,Withdrawal - Equipment,123 Cleaning Services
+817bc410-b594-4a80-9fd4-f3dfe418653e,2023-02-18,Payment,2437.293078,ACCT-6677,Payment - Equipment,XYZ Tech Solutions
+75c82df7-0d79-4f36-aa62-bd41d358ebb3,2023-02-19,Transfer,1299.99,ACCT-7253,Transfer - Services,XYZ Tech Solutions
+7001e7dc-777c-4196-a161-9a02700b4f14,2023-02-19,Purchase,6192.8856,ACCT-2097,Purchase - Miscellaneous,123 Cleaning Services
+d1685a2f-6efc-4084-8780-fbdaee875220,2023-02-20,Deposit,8574.86,ACCT-4947,Deposit - Equipment,XYZ Tech Solutions
+042dd003-00b5-433a-87ad-7f45ad7eb643,2023-02-20,Deposit,3605.2684469999995,ACCT-6075,Deposit - Office Supplies,123 Cleaning Services
+87df968c-309e-4538-8cb5-c5f0ad1b4f2e,2023-02-20,Deposit,69974.39,ACCT-9978,Deposit - Office Supplies,ABC Office Supplies
+85675ad3-6477-4877-96e3-723e7f0343c0,2023-02-20,Purchase,2589.32,ACCT-7988,Purchase - Miscellaneous,ABC Office Supplies
+a113f1ce-7684-4975-a157-fdc01dcb30ab,2023-02-21,Deposit,1271.55,ACCT-5422,Deposit - Equipment,XYZ Tech Solutions
+6d0e6c93-220f-48d6-aa24-44577a2b46af,2023-02-21,Payment,5259.28,ACCT-8637,Payment - Miscellaneous,ABC Office Supplies
+19288a33-0196-4d21-8f37-ff917f082114,2023-02-21,Payment,1563.5862000000002,ACCT-4142,Payment - Miscellaneous,123 Cleaning Services
+34dab225-a872-411f-803d-9460f540286d,2023-02-21,Purchase,1169.79,ACCT-3752,Purchase - Miscellaneous,XYZ Tech Solutions
+98a79a8f-b313-4474-97e2-1d44676b8b17,2023-02-22,Purchase,52348.2,ACCT-6719,Purchase - Services,ABC Office Supplies
+3ea7795a-02e0-4062-b898-b7a34d10d0bc,2023-02-23,Purchase,9037.3734,ACCT-6218,Purchase - Office Supplies,ABC Office Supplies
+2900a752-e21b-48ff-99a3-22df26a51c4b,2023-02-23,Transfer,3542.06,ACCT-3985,Transfer - Miscellaneous,123 Cleaning Services
+fe5f0955-8425-4717-a99b-2b6d8fd24f2c,2023-02-23,Purchase,5728.6,ACCT-8828,Purchase - Office Supplies,123 Cleaning Services
+062bca00-b031-458b-b893-f115431ec08c,2023-02-24,Deposit,1658.97,ACCT-5319,Deposit - Miscellaneous,ABC Office Supplies
+422bb7b3-e38d-4c01-a0e8-c961d3cc30d0,2023-02-24,Withdrawal,2003.89,ACCT-2007,Withdrawal - Services,123 Cleaning Services
+1711f3f7-d052-4f5d-b360-a856f4141d58,2023-02-24,Payment,3544.7346,ACCT-8273,Payment - Office Supplies,123 Cleaning Services
+acb6d352-4188-4318-9f0c-70cabc93206a,2023-02-25,Purchase,3476.42,ACCT-4166,Purchase - Equipment,ABC Office Supplies
+653ca3fa-1ee9-41d1-a299-180960915cfe,2023-02-26,Purchase,9145.14,ACCT-8705,Purchase - Equipment,XYZ Tech Solutions
+4098c3c2-5fd5-4c89-a5c6-bbb9d5af0b4f,2023-02-26,Purchase,1799.0577,ACCT-4107,Purchase - Miscellaneous,XYZ Tech Solutions
+4aca4ce1-ebb9-46f0-a657-b6c4d605abe5,2023-02-27,Deposit,1530.82,ACCT-9570,Deposit - Services,XYZ Tech Solutions
+d7cf5efc-395e-4557-a124-6bf122875c3a,2023-02-27,Withdrawal,1231.31,ACCT-4093,Withdrawal - Office Supplies,123 Cleaning Services
+7e10bdd5-d0e3-430d-af4e-8780daea7c2b,2023-02-27,Deposit,4210.6185,ACCT-5138,Deposit - Services,123 Cleaning Services
+99e53c1a-b6d2-4904-9908-ae0664c57821,2023-02-28,Purchase,9688.36,ACCT-9913,Purchase - Miscellaneous,ABC Office Supplies
+906d1b1c-3792-488f-a2c2-1be2b2e6577a,2023-02-28,Payment,2380.3758000000003,ACCT-3399,Payment - Services,ABC Office Supplies
+8867213a-d60f-4735-8183-0d19bde10a51,2023-02-28,Deposit,988.323039,ACCT-4150,Deposit - Equipment,123 Cleaning Services
+9a90ecab-36d1-4c21-b0f8-386a5bcad8f7,2023-02-28,Deposit,2599.68,ACCT-7991,Deposit - Miscellaneous,XYZ Tech Solutions
+993259b2-575a-4675-93a9-580318813bd6,2023-03-01,Payment,1924.23,ACCT-3043,Office Rent,Prime Office Rentals
+5ccb2a79-28d4-48f6-9b9f-b3cf20191eb1,2023-03-01,Transfer,1777.24,ACCT-5682,Transfer - Equipment,XYZ Tech Solutions
+a66a054d-b520-4a95-bd2e-6c8feaf9507f,2023-03-01,Deposit,2300.12,ACCT-2523,Deposit - Miscellaneous,123 Cleaning Services
+0261493e-0c18-4a05-a960-4335ad90811d,2023-03-01,Payment,7139.75,ACCT-3623,Payment - Miscellaneous,ABC Office Supplies
+cde75a19-94b7-48d3-b44c-f2120f677000,2023-03-01,Payment,1383.51,ACCT-6869,Payment - Equipment,XYZ Tech Solutions
+59720d54-82f0-47dd-8e17-d6b9fdf2561a,2023-03-01,Purchase,2931.16,ACCT-7673,Purchase - Services,ABC Office Supplies
+b7c5c059-c72c-43b0-abf4-90101e3381cd,2023-03-01,Payment,1046.19,ACCT-1035,Payment - Equipment,XYZ Tech Solutions
+45490e99-9153-41b0-9d75-da7b941bf23c,2023-03-02,Payment,2499.02,ACCT-7214,Payment - Miscellaneous,123 Cleaning Services
+5fbe2f7d-3860-4fb0-aaae-d18bd18659c3,2023-03-02,Deposit,1456.0,ACCT-6336,Deposit - Equipment,ABC Office Supplies
+fc6dea00-9472-4bd7-b616-c4d3e50d77a8,2023-03-04,Payment,3999.59,ACCT-8193,Payment - Services,ABC Office Supplies
+02d247d5-a28c-4c53-a44b-8cdc7577ba31,2023-03-04,Payment,4198.2,ACCT-3990,Payment - Services,ABC Office Supplies
+31b75afe-7ce9-4294-b203-5492b1c73519,2023-03-04,Transfer,7321.41,ACCT-3316,Transfer - Equipment,123 Cleaning Services
+44325c9a-aa55-4257-9d41-0dbfcf3c8ee4,2023-03-05,Deposit,5660.513099999999,ACCT-8832,Deposit - Equipment,XYZ Tech Solutions
+ee981bae-71e6-4465-9ffc-fa9465fe81e9,2023-03-05,Purchase,8273.26,ACCT-8985,Purchase - Equipment,XYZ Tech Solutions
+b48066d0-2c09-4403-a03a-18d3f6d30fdf,2023-03-06,Transfer,2108.83,ACCT-1635,Transfer - Services,123 Cleaning Services
+1b2a988b-271b-42a1-b98d-ef88de03c971,2023-03-06,Transfer,1965.0708,ACCT-7089,Transfer - Miscellaneous,XYZ Tech Solutions
+35ae4eb7-f6e9-48cc-9b36-9f32d803153a,2023-03-06,Withdrawal,1551.24,ACCT-4722,Team Building Retreat,Gourmet Restaurant
+e4d65aef-0822-4a9b-95e5-c806c143254b,2023-03-06,Purchase,4034.12,ACCT-4647,Purchase - Miscellaneous,123 Cleaning Services
+079ccc06-0219-4fdb-89a5-47d8727792c4,2023-03-06,Withdrawal,4881.89,ACCT-1838,Withdrawal - Services,ABC Office Supplies
+7d96c87a-1511-4aca-8e66-2b503a87ccb5,2023-03-06 00:04,Withdrawal,4833.0711,ACCT-1838,Withdrawal - Services,ABC Office Supplies
+899a0d7e-f3af-4ac8-9513-39252eefc488,2023-03-07,Transfer,67747.05,ACCT-1235,Transfer - Services,ABC Office Supplies
+0909b482-25d7-4d65-b74a-55f424fe6a0d,2023-03-08,Payment,1310.85,WRONG-304,Payment - Office Supplies,XYZ Tech Solutions
+aa4f836b-cce6-4008-82d5-395a89b38b7a,2023-03-08,Withdrawal,9024.88,ACCT-8191,Withdrawal - Office Supplies,123 Cleaning Services
+8de57cee-95cd-41b2-9f85-8acf45aa5147,2023-03-08,Withdrawal,3272.91,ACCT-8720,Deposit - Miscellaneous,XYZ Tech Solutions
+fdb11725-d9bf-4ecd-87f3-ebec9dfa52ad,2023-03-08,Deposit,8990.13,ACCT-5526,Deposit - Equipment,ABC Office Supplies
+5b3b9f26-a00f-4797-94d1-b332f56cb93f,2023-03-09,Purchase,2658.3,ACCT-7768,Purchase - Miscellaneous,XYZ Tech Solutions
+07a08d88-3a3b-49e3-a09d-45da49b26f2f,2023-03-09,Deposit,1983.02,ACCT-4698,Deposit - Equipment,ABC Office Supplies
+8d67bc87-141f-4615-9099-41b5792acf51,2023-03-09,Deposit,1909.81,ACCT-4375,Deposit - Services,XYZ Tech Solutions
+92b85565-d4f9-4812-8581-3faab284243a,2023-03-09,Purchase,3952.5,ACCT-9141,Purchase - Services,123 Cleaning Services
+08e87311-ebac-4098-81b2-faa7d03c4952,2023-03-10,Transfer,2107.78,ACCT-5611,Transfer - Equipment,123 Cleaning Services
+16d6ceba-ff71-44ba-a006-8b52aae7fbd0,2023-03-10,Deposit,4866.34,ACCT-3269,Deposit - Office Supplies,XYZ Tech Solutions
+c1e1a891-e3bf-46ee-bb28-9f08dc5d09f1,2023-03-11,Transfer,4393.52,ACCT-4673,Transfer - Office Supplies,XYZ Tech Solutions
+60314bde-b380-4160-bf13-0ea547441411,2023-03-11,Purchase,4550.9,ACCT-5961,Purchase - Services,123 Cleaning Services
+549390ce-3c39-46a7-b3ca-74b80730a748,2023-03-12,Transfer,4931.62,ACCT-5206,Transfer - Equipment,XYZ Tech Solutions
+3df1ecb9-f0ee-45dc-bf37-ed1fd09abee2,2023-03-12,Withdrawal,1759.8140999999998,ACCT-1422,Withdrawal - Miscellaneous,XYZ Tech Solutions
+fca51697-a679-4226-a25d-2ea5155eccad,2023-03-12,Payment,1573.21,ACCT-5027,Payment - Miscellaneous,XYZ Tech Solutions
+b04a472d-6eb6-4e10-931a-e983b8abaeff,2023-03-12,Transfer,3340.445427,ACCT-1147,Transfer - Equipment,XYZ Tech Solutions
+771a7e6a-089d-4d55-b6fe-960707a547ca,2023-03-12,Withdrawal,1821.31,ACCT-7567,Withdrawal - Services,123 Cleaning Services
+ff9134af-ef71-443e-a0a3-ada251681653,2023-03-13,Payment,9385.6,ACCT-6640,Payment - Miscellaneous,123 Cleaning Services
+64f3de0b-e6f6-4436-91a3-8d420fbc7d89,2023-03-14,Payment,8139.22,ACCT-2142,Payment - Equipment,ABC Office Supplies
+a24e864d-e6b7-4281-9cf9-322196eba610,2023-03-14,Transfer,6150.058892999999,ACCT-6118,Transfer - Office Supplies,XYZ Tech Solutions
+0b45298b-c727-4134-9d41-b56654428053,2023-03-15,Payment,484.31,ACCT-3540,Monthly Utility Bill,City Power & Utilities
+20e4a501-5f57-4a58-9db6-e353fcd72d60,2023-03-15,Payment,2158.0429860000004,ACCT-4830,Payment - Equipment,123 Cleaning Services
+fdc234b1-c17a-47cb-82db-cc63c2ca56ec,2023-03-15,Payment,2975.5,ACCT-6955,Payment - Office Supplies,ABC Office Supplies
+49424715-f054-48db-855d-6a71a8fd1f5a,2023-03-16,Payment,9190.6056,ACCT-7059,Payment - Services,123 Cleaning Services
+1f50b556-cec5-4317-88ae-0cf7961dcc7c,2023-03-16,Payment,1090.11,ACCT-9864,Payment - Equipment,XYZ Tech Solutions
+77f7dfc1-a587-4f56-a398-733adca298aa,2023-03-17,Purchase,3996.26,ACCT-2572,Purchase - Services,XYZ Tech Solutions
+17f96184-fa5f-4f31-8c3e-09babd59e8fe,2023-03-19,Deposit,1316.84,ACCT-5944,Deposit - Miscellaneous,ABC Office Supplies
+9f146101-2442-4791-bcf2-39eb68706052,2023-03-19,Payment,8138.5524000000005,ACCT-1435,Payment - Office Supplies,123 Cleaning Services
+5c5f32f6-fa8c-4643-ade7-c37830c966ca,2023-03-20,Deposit,1389.79,ACCT-2154,Deposit - Equipment,XYZ Tech Solutions
+3eb2afba-c7f7-4d5e-9c68-4055410e2c2c,2023-03-21,Purchase,1298.43,ACCT-1040,Purchase - Equipment,ABC Office Supplies
+98f594a1-b9e9-45f8-a792-bf154b8c10fc,2023-03-21,Purchase,6269.0265,ACCT-8512,Purchase - Miscellaneous,123 Cleaning Services
+e54590dc-5e91-4513-9c75-5072889b0c87,2023-03-21,Payment,2398.27,ACCT-9680,Payment - Office Supplies,ABC Office Supplies
+0d209e69-609d-483b-be44-754a477e59ce,2023-03-23,Withdrawal,1600.0,ACCT-7638,Withdrawal - Equipment,XYZ Tech Solutions
+ae9c2244-8f05-47ae-be21-9bf253b1f9ef,2023-03-23,Withdrawal,1324.22,ACCT-1612,Withdrawal - Equipment,XYZ Tech Solutions
+9d5003e8-fc44-42a1-a402-fb802b03663f,2023-03-23,Purchase,1234.63,ACCT-7073,Purchase - Miscellaneous,XYZ Tech Solutions
+7e4f783c-23e9-43d5-8a27-01482d24375e,2023-03-23,Deposit,3910.51,ACCT-2836,Deposit - Office Supplies,ABC Office Supplies
+26179011-bef0-4747-b8f2-8812204e22f7,2023-03-23,Payment,2311.4,ACCT-9174,Payment - Miscellaneous,123 Cleaning Services
+d29f8d26-2b8e-4890-9311-cb3d7135f5d6,2023-03-24,Purchase,1201.79,ACCT-5522,Purchase - Services,123 Cleaning Services
+ca997b57-4850-47f7-914a-431f18b7f085,2023-03-24,Purchase,2502.72,ACCT-5816,Purchase - Miscellaneous,XYZ Tech Solutions
+764cb6df-2ce7-485e-ba65-19d09a8153f8,2023-03-26,Payment,4295.49,ACCT-8975,Payment - Equipment,ABC Office Supplies
+152f2873-bbfa-45c8-86d2-e020c5b59814,2023-03-27,Purchase,7716.08,ACCT-9671,Purchase - Miscellaneous,XYZ Tech Solutions
+a83c5dff-e4e0-4cca-9e24-4bb448a7f89b,2023-03-27,Purchase,5674.16,ACCT-9741,Purchase - Services,123 Cleaning Services
+d62f8918-0911-4b2b-9676-d5fb036de279,2023-03-27,Payment,3705.67,ACCT-2551,Payment - Miscellaneous,ABC Office Supplies
+5ecf893d-4df3-4caa-85ae-713078bd418a,2023-03-28,Transfer,8559.19,ACCT-5870,Transfer - Services,123 Cleaning Services
+db42bd07-22a6-4b0c-bdc7-1d7bbf10a140,2023-03-28,Purchase,3001.39,ACCT-4005,Office Decor,Designer Clothing Co.
+55cfaf11-9d6f-451a-9b49-86f4e2a6679c,2023-03-28,Withdrawal,9423.74,ACCT-4433,Withdrawal - Office Supplies,123 Cleaning Services
+be8b1c94-b6a8-446b-933b-100c95561dd4,2023-03-28,Transfer,5273.1162,ACCT-1267,Transfer - Equipment,XYZ Tech Solutions
+c369afd0-b871-4b8a-a449-c98e28b590dc,2023-03-28,Purchase,1200.0,ACCT-4598,Purchase - Miscellaneous,XYZ Tech Solutions
+9502dd17-d8b4-4fa5-80c9-cc5bc86336ca,2023-03-29,Payment,6866.71,ACCT-4310,Payment - Equipment,XYZ Tech Solutions
+3569d725-6372-4e0a-bf5c-a3dbc010c02f,2023-03-31,Purchase,1097.23,ACCT-4236,Purchase - Equipment,123 Cleaning Services
+d8ebff2b-71c9-4d5a-bddc-cb4a6a39136b,2023-03-31,Deposit,2083.65,ACCT-6291,Deposit - Office Supplies,XYZ Tech Solutions
+780860c5-773d-4462-8dc7-34d0c85a25cb,2023-04-01,Payment,2082.0,ACCT-5902,Office Rent,Prime Office Rentals
+1977fb34-db2b-4c01-ba66-2c93d0fffd2b,2023-04-01,Withdrawal,5528.44,ACCT-6695,Withdrawal - Equipment,XYZ Tech Solutions
+ee926420-171c-47ca-848e-787a4775a9b3,2023-04-01,Payment,1690.86,ACCT-9417,Payment - Miscellaneous,ABC Office Supplies
+ed4a328b-0912-44fb-a8e4-98a2ca575d94,2023-04-01,Payment,5948.36,ACCT-4699,Payment - Services,ABC Office Supplies
+578ff60c-d06e-48cd-be06-19136a0e65e0,2023-04-03,Withdrawal,9276.16,ACCT-8449,Withdrawal - Services,XYZ Tech Solutions
+ff0ea970-d722-4882-8689-b73d97c9f39a,2023-04-04,Withdrawal,5399.07,ACCT-2390,Withdrawal - Equipment,ABC Office Supplies
+cf464ec7-5969-43dd-9bb4-e836541348b5,2023-04-05,Payment,3284.44,ACCT-3366,Payment - Equipment,123 Cleaning Services
+62360d6e-dd05-458a-9352-f2dafa6b25e7,2023-04-06,Deposit,98255.39,ACCT-4409,Deposit - Miscellaneous,ABC Office Supplies
+7afde8fb-8223-4da7-ac8a-1933e3195bb5,2023-04-06,Withdrawal,3534.877665,ACCT-3556,Withdrawal - Office Supplies,XYZ Tech Solutions
+05f64b00-2504-4614-9fef-d18fa3cf801c,2023-04-06,Payment,7182.915300000001,ACCT-4575,Payment - Services,ABC Office Supplies
+457bd3d4-7976-4559-b767-e2feb34a4633,2023-04-07,Payment,1155.4587000000001,ACCT-2503,Payment - Miscellaneous,ABC Office Supplies
+da7d4215-4ace-4743-99c4-2287a27d75ce,2023-04-07,Transfer,1618.39,ACCT-5148,Transfer - Office Supplies,XYZ Tech Solutions
+08bc0f19-74ae-4a06-a8c4-8bf7838e4d3d,2023-04-07,Transfer,2108.26,ACCT-8972,Transfer - Equipment,XYZ Tech Solutions
+3bd775fc-325f-4807-8dbe-e772aab1f3e7,2023-04-08,Deposit,2450.98,ACCT-1088,Deposit - Office Supplies,ABC Office Supplies
+01ba76e9-5165-450d-8626-afe15e1de06f,2023-04-08,Transfer,5608.79,ACCT-6007,Transfer - Services,ABC Office Supplies
+e22de28d-3703-4e9e-b717-983b24ca277f,2023-04-08,Withdrawal,2063.2,ACCT-7940,Withdrawal - Equipment,XYZ Tech Solutions
+3c07ed6e-c532-4366-a84b-a4fdf85e6df3,2023-04-08,Purchase,1828.7181,ACCT-3571,Purchase - Office Supplies,123 Cleaning Services
+b696e0c0-e227-4812-8fbc-61cae2661d78,2023-04-09,Deposit,2357.7345,ACCT-1653,Deposit - Miscellaneous,ABC Office Supplies
+b57024af-f51e-43c8-81bc-02b05e64dd5b,2023-04-09,Deposit,2023.58,ACCT-7170,Deposit - Equipment,ABC Office Supplies
+705e529e-f5d6-4f87-a541-7fdc064788b1,2023-04-09,Transfer,1151.48,ACCT-4805,Transfer - Office Supplies,XYZ Tech Solutions
+1ce69e2e-7166-422f-a266-a936aac34991,2023-04-09,Withdrawal,1137.84,ACCT-5104,Withdrawal - Miscellaneous,XYZ Tech Solutions
+8fc9876c-fd51-415c-beb1-7953253ca1c7,2023-04-09,Withdrawal,2285.77,ACCT-5533,Withdrawal - Services,123 Cleaning Services
+63edfbab-9677-4328-a9f4-edf15408d445,2023-04-11,Purchase,5196.708,ACCT-7428,Purchase - Miscellaneous,XYZ Tech Solutions
+7d67c9ed-c052-41f6-88f0-9425f6e4bbbe,2023-04-11,Payment,5942.653200000001,ACCT-9124,Payment - Services,ABC Office Supplies
+7af3731f-a1ce-45bb-a12e-866f9412360f,2023-04-12,Withdrawal,1129.2732,ACCT-7208,Withdrawal - Services,ABC Office Supplies
+49ef54d5-7a96-4675-86cf-69d47c05497b,2023-04-12,Payment,9188.4375,ACCT-7175,Payment - Services,123 Cleaning Services
+81a1455d-d6e8-403d-b54f-68fe003ab745,2023-04-12,Deposit,6000.0,ACCT-1172,Deposit - Services,123 Cleaning Services
+87f5033f-c73b-409a-969a-ac7e7841a3ac,2023-04-12,Transfer,9127.14,ACCT-1869,Transfer - Equipment,ABC Office Supplies
+5c80150f-263f-45a4-b087-40ca9541f2dc,2023-04-12,Transfer,2006.56,ACCT-8872,Transfer - Office Supplies,ABC Office Supplies
+90a4c2fb-6fa9-4223-8d23-4188b778827b,2023-04-13,Withdrawal,3470.841,ACCT-9925,Withdrawal - Equipment,XYZ Tech Solutions
+16e38d00-ec39-4a97-a682-2141ee0a7cc8,2023-04-13,Purchase,4901.232599999999,ACCT-3954,Purchase - Services,ABC Office Supplies
+c7cb9d51-2629-450c-ba58-1bf66431f2c7,2023-04-13,Withdrawal,2897.88,ACCT-2794,Withdrawal - Office Supplies,123 Cleaning Services
+4933f30e-45bd-472a-859a-2823c98b633b,2023-04-13,Withdrawal,4365.42,ACCT-7570,Withdrawal - Miscellaneous,XYZ Tech Solutions
+25bb49b6-0b38-4561-93a5-b9f6682eb34e,2023-04-13,Deposit,1911.6,ACCT-7639,Deposit - Office Supplies,ABC Office Supplies
+5a87c936-c5b1-436f-8430-fcaa08597873,2023-04-14,Transfer,7888.72,ACCT-8380,Transfer - Office Supplies,XYZ Tech Solutions
+408b6386-365f-4262-a196-3c00a527ded1,2023-04-15,Payment,506.02,ACCT-3519,Monthly Utility Bill,City Power & Utilities
+1fab5fe5-0519-4066-8bb0-97f9206d07e6,2023-04-15,Payment,9036.59,ACCT-4490,Payment - Miscellaneous,ABC Office Supplies
+527f2fea-4acf-4834-a12c-b464b1534b3c,2023-04-15,Transfer,2152.26,ACCT-7953,Transfer - Office Supplies,ABC Office Supplies
+54319758-1ee6-4c3c-b71a-8e0702499604,2023-04-15,Payment,8574.06,ACCT-7518,Payment - Equipment,ABC Office Supplies
+b630c702-d747-4e5e-9547-e023e608d53f,2023-04-16,Deposit,2785.32,ACCT-6239,Deposit - Miscellaneous,XYZ Tech Solutions
+64ce6ea5-19e4-4406-9d10-6861970cb98a,2023-04-16,Withdrawal,1031.1444,ACCT-2513,Withdrawal - Miscellaneous,123 Cleaning Services
+ec655238-8b2c-4bae-b2e3-ddedb50ae98a,2023-04-16,Transfer,7733.91,ACCT-6811,Transfer - Miscellaneous,123 Cleaning Services
+8208d346-4f3e-45db-b13b-e8b0eb8c218e,2023-04-17,Withdrawal,1410.45,ACCT-7315,Withdrawal - Equipment,123 Cleaning Services
+feb58c01-1e0c-41a2-8aa8-862691a092bb,2023-04-18,Transfer,1604.6316,ACCT-1832,Transfer - Miscellaneous,ABC Office Supplies
+f6a10034-a43c-426a-a959-8bd10cfaf15e,2023-04-18,Purchase,6152.12,ACCT-6185,Purchase - Miscellaneous,ABC Office Supplies
+897528b2-f1f9-4be2-a80c-2c21964ce474,2023-04-18,Payment,1612.22,ACCT-3236,Payment - Miscellaneous,ABC Office Supplies
+27ec1d80-19d1-4d0f-88a4-46e56426f0f1,2023-04-19,Transfer,7546.09,ACCT-4667,Transfer - Services,XYZ Tech Solutions
+796f7b2a-9eb2-4694-ae91-c6f9e4a58985,2023-04-21,Withdrawal,1965.8232,ACCT-5426,Withdrawal - Office Supplies,ABC Office Supplies
+fe1ae16e-5b22-4a61-ae4f-ac88658d7a3c,2023-04-21,Transfer,3000.22,ACCT-4809,Transfer - Office Supplies,123 Cleaning Services
+aa2ca47e-cc90-43e1-805d-1de43eb60496,2023-04-21,Transfer,2675.7027,ACCT-8008,Transfer - Services,123 Cleaning Services
+864df8e9-0915-4873-91e2-66450c12d8a3,2023-04-22,Withdrawal,3249.59,ACCT-6723,Withdrawal - Services,123 Cleaning Services
+c9ba9c67-ba00-4135-8836-77c3c81af46a,2023-04-23,Withdrawal,5234.28,ACCT-7819,Withdrawal - Services,XYZ Tech Solutions
+181495e6-09b8-4de9-b2a8-eaf3016a0eed,2023-04-23,Withdrawal,4171.64,ACCT-5104,Withdrawal - Miscellaneous,123 Cleaning Services
+dce3d319-caf0-4c12-a295-ccad334bf46e,2023-04-24,Deposit,2914.87,ACCT-2914,Deposit - Miscellaneous,ABC Office Supplies
+eab48ce6-8202-4139-8314-942ff950bced,2023-04-24,Purchase,3414.8763,ACCT-4347,Purchase - Services,ABC Office Supplies
+7d179312-4486-43dd-b732-82e7203bd4c5,2023-04-24,Purchase,1035.55,ACCT-1118,Purchase - Miscellaneous,123 Cleaning Services
+d880fb01-19c8-4f72-97a0-3b24f126c474,2023-04-24,Withdrawal,6602.2,ACCT-5112,Withdrawal - Equipment,123 Cleaning Services
+8e6ac053-1691-413e-808f-f3cc093c808b,2023-04-25,Payment,1623.5802,ACCT-6731,Payment - Miscellaneous,ABC Office Supplies
+a6996771-44c0-42a9-ab4d-3f560b02ff29,2023-04-25,Payment,2803.09,ACCT-3525,Payment - Miscellaneous,123 Cleaning Services
+fd415bae-4256-41af-a894-2537cdc81592,2023-04-26,Purchase,6929.48,ACCT-4547,Purchase - Services,ABC Office Supplies
+7a9b41ea-24ec-4ac0-8293-ea40db9373dc,2023-04-26,Deposit,1114.36,ACCT-2553,Deposit - Office Supplies,ABC Office Supplies
+9c4404f0-008a-4ecd-a501-2d1bbdea1a3b,2023-04-26,Transfer,8209.78,ACCT-5573,Transfer - Miscellaneous,XYZ Tech Solutions
+a24cf620-04f0-4b85-becd-507244aeaacb,2023-04-26 00:15,Deposit,1103.2163999999998,ACCT-2553,Deposit - Office Supplies,ABC Office Supplies
+94e15b26-a09d-4689-b99c-4ff28bb0af49,2023-04-27,Purchase,1173.0510000000002,ACCT-3940,Purchase - Services,ABC Office Supplies
+2ca983e0-4020-4793-955e-51a1ce78d41f,2023-04-27,Purchase,3035.29,ACCT-3543,Purchase - Equipment,123 Cleaning Services
+6049ac5f-d7e4-454d-bc52-2c1e2cbeca49,2023-04-27,Deposit,1132.1937,ACCT-3693,Deposit - Equipment,123 Cleaning Services
+8cf6af1a-4554-407f-a7e6-997ac93165ba,2023-04-27,Payment,1602.12,ACCT-1744,Payment - Miscellaneous,XYZ Tech Solutions
+7c8b96e5-84c8-4a22-8dba-f2cdc212f1d3,2023-04-27,Transfer,3736.76,ACCT-5413,Transfer - Equipment,123 Cleaning Services
+85d73abe-8003-413e-99ac-a90ddc023d3b,2023-04-27 00:05,Purchase,1161.32049,ACCT-3940,Purchase - Services,ABC Office Supplies
+c50ca90b-35c0-43cf-873e-29cd2d0954fe,2023-04-28,Payment,5427.8234999999995,ACCT-2023,Payment - Equipment,ABC Office Supplies
+8b74c14b-ccb2-49b4-ac5b-f2dcc0d5f840,2023-04-29,Transfer,1169.03,ACCT-7564,Transfer - Services,123 Cleaning Services
+c3b6c9d0-6263-412f-bf07-5b6d9c2a02a9,2023-04-29,Deposit,5576.74,ACCT-3921,Deposit - Services,ABC Office Supplies
+ad866872-dfb9-4bfc-8708-152b799da677,2023-04-30,Withdrawal,8078.6,ACCT-2801,Withdrawal - Equipment,XYZ Tech Solutions
+78ff9238-d6e7-440d-92ff-82a54bdd3cfe,2023-05-01,Payment,1946.44,ACCT-1162,Office Rent,Prime Office Rentals
+0f0511c2-4933-4702-80b7-897749c72f2c,2023-05-01,Withdrawal,6561.05,ACCT-4659,Withdrawal - Equipment,XYZ Tech Solutions
+bcfe3798-cc09-44f3-b612-f5bd4e6d70d3,2023-05-02,Purchase,4592.41,ACCT-6212,Purchase - Miscellaneous,XYZ Tech Solutions
+4a372bf4-e743-44df-8e8e-1d5245b64ca0,2023-05-03,Payment,1518.47,ACCT-2142,Payment - Miscellaneous,123 Cleaning Services
+d36bf716-26c6-4e91-9a4d-28ce324393c0,2023-05-04,Purchase,4470.38,ACCT-7205,Purchase - Services,ABC Office Supplies
+8c5d2aa3-3a97-44f1-af4a-ca229b219f59,2023-05-04,Payment,1743.74,ACCT-8554,Payment - Equipment,123 Cleaning Services
+b90d1d01-15c7-4656-a36a-27d31ad01794,2023-05-05,Payment,9549.9,ACCT-9144,Payment - Miscellaneous,ABC Office Supplies
+9d9f9a5e-e300-474b-8f24-48039bc57a41,2023-05-06,Purchase,5252.01,ACCT-3577,Purchase - Miscellaneous,123 Cleaning Services
+99a920e8-82d7-4f1d-84bf-abdba95aa45b,2023-05-06,Deposit,6793.65,ACCT-4305,Deposit - Office Supplies,ABC Office Supplies
+4cbb6b5c-b0b8-4caa-9f70-a273086df107,2023-05-06,Purchase,2452.19,ACCT-7537,Purchase - Services,123 Cleaning Services
+4e8a5698-6032-4a72-ab0d-0953a6170ce1,2023-05-06,Payment,1309.1165999999998,ACCT-1013,Payment - Miscellaneous,123 Cleaning Services
+2f06cc03-7f12-48ad-9dc1-b062f5de94d2,2023-05-06,Deposit,6028.92,ACCT-8228,Deposit - Office Supplies,123 Cleaning Services
+839a735a-cbf0-4245-a539-dd049f3a8068,2023-05-07,Purchase,2606.59,ACCT-4094,Purchase - Services,XYZ Tech Solutions
+0eb57c17-ae8c-47f2-8209-4f6d59ee8475,2023-05-07,Deposit,1017.78,ACCT-2265,Deposit - Miscellaneous,ABC Office Supplies
+310d51de-7d29-44bf-9780-4097588505bb,2023-05-07,Purchase,4598.1639,ACCT-8238,Purchase - Office Supplies,ABC Office Supplies
+6f1023db-4199-4f64-b296-498551559b5d,2023-05-08,Payment,4670.25,ACCT-3680,Payment - Miscellaneous,ABC Office Supplies
+612511e7-9dc6-435e-bb92-9213bb6d2e9b,2023-05-08,Transfer,1481.3765999999998,ACCT-7054,Transfer - Miscellaneous,XYZ Tech Solutions
+69e2fd4d-e07d-4607-89c4-d85b4ea657f1,2023-05-09,Purchase,1837.29,ACCT-4159,Team Building Retreat,Designer Clothing Co.
+0b3102aa-521a-446e-b6b3-53b1d899061d,2023-05-09,Purchase,9886.59,ACCT-9507,Purchase - Miscellaneous,ABC Office Supplies
+0157e6e5-fa94-44f7-826e-d1e5dd0dcdc4,2023-05-09,Deposit,1733.7276,ACCT-2399,Deposit - Services,ABC Office Supplies
+7a680a7f-5c92-443d-a7c5-c7015db1726c,2023-05-09,Payment,4044.26,ACCT-6578,Payment - Equipment,ABC Office Supplies
+b535fe76-4ddb-4587-bf37-e37b1e7734df,2023-05-09,Deposit,1000.0,ACCT-5081,Deposit - Equipment,123 Cleaning Services
+b1f16517-4dc1-4ce4-8c2e-f32138ec8aa3,2023-05-10,Payment,8901.703800000001,ACCT-6559,Payment - Office Supplies,XYZ Tech Solutions
+d5f03d28-1a72-49a8-a528-78e2622eea55,2023-05-11,Deposit,4240.87,ACCT-5358,Deposit - Services,123 Cleaning Services
+c153f985-975e-4faa-a976-a1f43b1fdbaf,2023-05-11,Purchase,5800.29,ACCT-5275,Purchase - Office Supplies,XYZ Tech Solutions
+2635106c-0fb8-442f-a9b7-66663d9894e9,2023-05-11,Purchase,1796.1,ACCT-1818,Purchase - Equipment,ABC Office Supplies
+df955566-4de6-4448-b056-9d3771ee8b7f,2023-05-11,Deposit,4364.4546,ACCT-1391,Deposit - Equipment,XYZ Tech Solutions
+96d9003b-0fb4-4e80-a3d3-124ac673e021,2023-05-11,Transfer,2573.76,ACCT-2925,Transfer - Miscellaneous,XYZ Tech Solutions
+4366fa2a-58e7-4ad2-804a-0a1510daf918,2023-05-11,Purchase,9072.73,ACCT-9771,Purchase - Equipment,123 Cleaning Services
+30e93d29-079c-4ca8-996e-4b68298d38fe,2023-05-12,Transfer,9445.42,ACCT-2956,Transfer - Equipment,ABC Office Supplies
+86df9c9c-670f-45ab-a6b6-33f503540fd0,2023-05-12,Withdrawal,7253.294400000001,ACCT-9080,Withdrawal - Services,123 Cleaning Services
+53bc0cf5-91e6-4811-8d62-e2310aa4d1b3,2023-05-12,Deposit,1451.58,ACCT-3459,Deposit - Equipment,XYZ Tech Solutions
+5b4268d8-1c3d-4c4a-814e-166b270c6216,2023-05-13,Transfer,1825.17,ACCT-1540,Transfer - Services,ABC Office Supplies
+653dd554-d117-4fc1-933d-6dc468ba23b2,2023-05-13,Purchase,1148.51,ACCT-4109,Purchase - Office Supplies,ABC Office Supplies
+99def3ba-dd48-46bd-9081-e7120cb33ba7,2023-05-13,Transfer,1690.9794,ACCT-1040,Transfer - Office Supplies,ABC Office Supplies
+a58aef96-adde-4424-aa7e-bf2e7ae7c49b,2023-05-14,Transfer,2494.1565,ACCT-9545,Transfer - Services,123 Cleaning Services
+620bab1e-777b-405b-a2a3-a3b2b95aeee2,2023-05-15,Payment,522.05,ACCT-1209,Monthly Utility Bill,City Power & Utilities
+bd19c7f6-826e-4f29-93e8-53643aff4393,2023-05-15,Transfer,1294.7022,ACCT-2027,Transfer - Services,ABC Office Supplies
+257aaf37-1f74-4bad-9832-ea2ed2c039c2,2023-05-15,Purchase,8209.6641,ACCT-8690,Purchase - Office Supplies,XYZ Tech Solutions
+ef061009-643d-4dc7-a62f-7f15cc922f4e,2023-05-15,Purchase,6654.71,ACCT-2475,Purchase - Equipment,XYZ Tech Solutions
+03f174fc-f61f-4ed4-b418-fe7d0c1f7a33,2023-05-15,Deposit,1877.69,ACCT-1069,Deposit - Equipment,123 Cleaning Services
+08cb8cc4-ed2e-45fd-838e-9cd7d0325853,2023-05-16,Deposit,4051.06,ACCT-9768,Deposit - Miscellaneous,XYZ Tech Solutions
+7ddfaa08-2eba-4e2c-a361-2da565b3de6e,2023-05-16,Transfer,2693.27,ACCT-7811,Transfer - Miscellaneous,ABC Office Supplies
+b40597f5-34b7-4902-b66a-6316cc9888ac,2023-05-16,Purchase,1146.72,ACCT-3365,Purchase - Services,ABC Office Supplies
+400bec11-604a-4ce2-bb0a-69c53941d150,2023-05-16,Withdrawal,7095.74,ACCT-4274,Withdrawal - Services,123 Cleaning Services
+241fcd05-d415-4ad8-8d5d-40e76a2787af,2023-05-16,Purchase,1507.736835,ACCT-6714,Purchase - Miscellaneous,ABC Office Supplies
+770e3d5f-1e3c-4d22-b3eb-4a6fbef7f22d,2023-05-16,Transfer,4096.3526999999995,ACCT-8031,Transfer - Office Supplies,123 Cleaning Services
+07a3d637-9826-4b02-a4b3-fbb328cb86d5,2023-05-16,Deposit,4082.16,ACCT-1312,Deposit - Services,ABC Office Supplies
+2282a6b7-c2ca-4541-8832-3b0778b2d0c9,2023-05-17,Payment,1925.89,ACCT-6312,Payment - Miscellaneous,XYZ Tech Solutions
+1d51249c-ca95-4ce4-b1b3-285b798b9e9f,2023-05-17,Deposit,62297.82,ACCT-7479,Deposit - Miscellaneous,XYZ Tech Solutions
+e5e1651f-3d62-48a9-bbae-f15c48dc594e,2023-05-17,Purchase,6535.07,ACCT-1636,Purchase - Miscellaneous,123 Cleaning Services
+2453ff23-26e9-488b-9e98-45aeb596d969,2023-05-18,Transfer,9216.02,ACCT-7305,Transfer - Equipment,123 Cleaning Services
+6c0fb356-3e8b-4864-aec9-346f37849020,2023-05-18,Deposit,2638.49,ACCT-2252,Deposit - Miscellaneous,ABC Office Supplies
+8b5c0470-f4f9-4a60-8d93-d482deb46783,2023-05-18,Deposit,8484.24,ACCT-7262,Deposit - Office Supplies,ABC Office Supplies
+f47c9b66-0c2f-465d-8cac-a8c2f0fe1c85,2023-05-18,Withdrawal,1226.62,ACCT-3206,Withdrawal - Equipment,XYZ Tech Solutions
+b148cece-12f1-4dcb-a338-20ce0c8ea631,2023-05-18,Payment,2739.4685999999997,ACCT-8726,Payment - Miscellaneous,123 Cleaning Services
+8de58ab5-74c0-4e27-9433-a699b2c69063,2023-05-18,Deposit,2869.2279,ACCT-3858,Deposit - Office Supplies,XYZ Tech Solutions
+33e6e40c-32c9-4c7c-bcdd-61f6e58132ee,2023-05-19,Transfer,3595.96,ACCT-8487,Transfer - Office Supplies,ABC Office Supplies
+7b58cf25-2d33-428f-9b82-035a7e8d2316,2023-05-19,Payment,1783.18,ACCT-9581,Payment - Equipment,123 Cleaning Services
+06d9e25a-b48b-4ae5-89c1-fb26e0e04f18,2023-05-19,Deposit,5575.28,ACCT-8474,Deposit - Equipment,ABC Office Supplies
+65cac29c-096b-4b49-95da-ec7ab598ec1c,2023-05-20,Withdrawal,3399.24,ACCT-2051,Withdrawal - Services,XYZ Tech Solutions
+1b42d4f3-4b63-4cfc-b3c8-a159f6894a97,2023-05-20,Purchase,9706.25,ACCT-4729,Purchase - Services,123 Cleaning Services
+09eeaf15-fad1-4b8e-bdc6-e0c22c534012,2023-05-21,Transfer,2621.61,ACCT-6326,Transfer - Miscellaneous,XYZ Tech Solutions
+4eccf1d2-5aa8-4abb-bce0-4fdeb3a24dbe,2023-05-21,Payment,5371.95,ACCT-8695,Payment - Office Supplies,123 Cleaning Services
+f7740929-8f61-4fcd-95dd-214df91ae408,2023-05-22,Deposit,3352.23,ACCT-1487,Deposit - Office Supplies,XYZ Tech Solutions
+03660275-acd1-4651-8621-b192ee958d28,2023-05-23,Purchase,1642.49,ACCT-6926,Purchase - Services,XYZ Tech Solutions
+7e7a9dbf-8472-41b6-bb9c-2c4671821636,2023-05-23,Purchase,1788.6,ACCT-5751,Purchase - Miscellaneous,XYZ Tech Solutions
+19efedc1-5a3e-4273-989f-78807e8176a1,2023-05-23,Transfer,1968.22,ACCT-3012,Transfer - Services,ABC Office Supplies
+012b3e02-fe22-4aa5-98ee-7ec07df76fec,2023-05-23,Payment,4130.4483,ACCT-2991,Payment - Office Supplies,ABC Office Supplies
+97c2e7a2-5781-4569-b858-39e7035219e6,2023-05-23,Withdrawal,8694.47,ACCT-1016,Withdrawal - Equipment,ABC Office Supplies
+9185d11b-c2f7-4608-912d-a0c00a508bed,2023-05-24,Purchase,3415.1535,ACCT-1156,Purchase - Miscellaneous,ABC Office Supplies
+030e5d83-add1-48ba-9a70-7beed502984a,2023-05-24,Purchase,2151.61,ACCT-4984,Purchase - Miscellaneous,ABC Office Supplies
+22aa17c2-dfea-4ce8-9026-9cd2ec76a181,2023-05-25,Withdrawal,1807.6509,ACCT-5242,Withdrawal - Miscellaneous,ABC Office Supplies
+9341e490-1202-469a-bc68-188c14552b8a,2023-05-26,Deposit,8990.8,ACCT-6755,Deposit - Services,ABC Office Supplies
+05913c11-9d74-49d5-a6cf-ba2128ab1134,2023-05-27,Deposit,2646.18,ACCT-7503,Deposit - Services,ABC Office Supplies
+9b0b7a42-e509-43df-92c4-08156fa160f7,2023-05-27,Transfer,1709.26,ACCT-8479,Transfer - Services,123 Cleaning Services
+1c4e5e3a-c9a6-441f-bae8-a34b6643b65d,2023-05-27,Withdrawal,1543.38,ACCT-1693,Withdrawal - Services,XYZ Tech Solutions
+035cf6e0-fe62-4dc6-9c60-899616ac03e7,2023-05-27,Purchase,1044.49,ACCT-1163,Purchase - Equipment,ABC Office Supplies
+5a0ff233-8c9d-48da-a85e-05a129bc9708,2023-05-28,Transfer,1728.82,ACCT-3824,Transfer - Services,XYZ Tech Solutions
+99e78161-a837-4690-9c69-578f926d8e96,2023-05-29,Transfer,2951.01,ACCT-1703,Transfer - Equipment,XYZ Tech Solutions
+845bc1bc-a5ca-4788-b11b-a8433c2b1ad6,2023-05-29,Deposit,1497.8304,ACCT-5483,Deposit - Miscellaneous,ABC Office Supplies
+26adcbdb-d5d9-497a-a42d-9971976e4e70,2023-05-30,Transfer,1846.52,ACCT-1936,Transfer - Services,XYZ Tech Solutions
+3851b60f-f1b7-4b71-8075-cd9e34197f80,2023-05-30,Withdrawal,4333.35,ACCT-7971,Withdrawal - Miscellaneous,XYZ Tech Solutions
+adbdbba9-8d81-4afc-8fd7-7aa9f12e63b1,2023-05-31,Deposit,3926.81,ACCT-7292,Deposit - Office Supplies,123 Cleaning Services
+8a4d9201-3462-453c-b062-b2bc0f5aee9a,2023-05-31,Purchase,8813.67,ACCT-3314,Purchase - Services,XYZ Tech Solutions
+3f648887-0ee8-4bba-9e57-df00a2b6a829,2023-05-31,Transfer,2394.33,ACCT-9047,Transfer - Miscellaneous,XYZ Tech Solutions
+9b6958e5-2dc5-420f-ae4d-f1a7acde7e12,2023-05-31,Purchase,2537.58,ACCT-7597,Purchase - Miscellaneous,ABC Office Supplies
+b9b788ca-83d8-4faf-be3f-8c4206238666,2023-05-31,Purchase,5655.0,ACCT-5420,Purchase - Miscellaneous,XYZ Tech Solutions
+7e760b3f-e1dd-4ce4-bb2e-ef143c6c049e,2023-06-01,Payment,1921.0800000000002,ACCT-7987,Office Rent,Prime Office Rentals
+b4da38c0-acaf-477c-bf03-5e56f0f9754a,2023-06-01,Withdrawal,1679.07,ACCT-9899,Withdrawal - Miscellaneous,XYZ Tech Solutions
+7e4b7889-a055-4a3d-9f04-8fc5c2572047,2023-06-01,Purchase,1029.22,ACCT-4184,Purchase - Equipment,123 Cleaning Services
+ba13420f-8a3b-4df1-979d-68bca0988bcd,2023-06-01,Deposit,1016.26,ACCT-6421,Deposit - Equipment,XYZ Tech Solutions
+c75d8d63-4898-4ebf-b75c-9e6c0e8d0337,2023-06-02,Purchase,1605.98,ACCT-7718,Purchase - Office Supplies,ABC Office Supplies
+85be2dad-3eeb-47de-9c2a-1c1bd51fc73d,2023-06-02,Deposit,3714.1731,ACCT-2743,Deposit - Services,ABC Office Supplies
+680906a6-9a76-409e-802f-2bec5df44ff0,2023-06-02,Deposit,5362.64,ACCT-4322,Deposit - Services,123 Cleaning Services
+4b900c12-6799-4541-9b0e-06b8c38cbf67,2023-06-03,Payment,1273.05189,ACCT-8430,Payment - Services,XYZ Tech Solutions
+7de5c411-948d-4575-8e38-ddf0b44e8d72,2023-06-04,Payment,1244.5388999999998,ACCT-7313,Payment - Office Supplies,ABC Office Supplies
+622f517c-a950-4a96-8880-5326522a207d,2023-06-04,Withdrawal,8063.29,ACCT-4798,Withdrawal - Equipment,XYZ Tech Solutions
+37b12c13-e0b6-4e0d-a7d4-48e9b1975a8a,2023-06-04,Purchase,3312.25,ACCT-2179,Purchase - Equipment,123 Cleaning Services
+2007f4f1-8c5a-4328-8799-07117b274101,2023-06-04,Deposit,2260.56,ACCT-9337,Deposit - Services,XYZ Tech Solutions
+9e3a8a25-58ce-4f3a-ae1d-1a03683afb90,2023-06-05,Deposit,1274.8,ACCT-3908,Deposit - Miscellaneous,XYZ Tech Solutions
+6efaf087-ce78-4963-b2ef-068792e99c6f,2023-06-05,Payment,1003.19,ACCT-5628,Payment - Office Supplies,123 Cleaning Services
+834f10a0-6822-4b01-a829-3981375f57b1,2023-06-05,Payment,4935.9618,ACCT-6119,Payment - Services,ABC Office Supplies
+2b8acc43-e3f2-4f6c-80d0-64554e0ae784,2023-06-06,Deposit,1274.2,ACCT-6635,Deposit - Equipment,123 Cleaning Services
+2b4c9d84-6b8b-4d36-8f56-2882f819b1d3,2023-06-06,Transfer,1805.76,ACCT-3186,Transfer - Equipment,123 Cleaning Services
+bdbe22fc-2e4b-4cd2-b0a1-950b48195daf,2023-06-07,Purchase,2544.23,ACCT-6588,Purchase - Equipment,123 Cleaning Services
+bee827a4-9c06-4679-9aa2-d5e07b7d12d0,2023-06-07,Purchase,5700.13,ACCT-5775,Purchase - Miscellaneous,123 Cleaning Services
+fd0d717d-9de1-4340-ae1e-97eba8383dd4,2023-06-07,Payment,9635.01,ACCT-5196,Payment - Office Supplies,XYZ Tech Solutions
+c2cbc49a-adac-40ea-9348-863d9783000e,2023-06-08,Withdrawal,1446.49,ACCT-7274,Withdrawal - Office Supplies,123 Cleaning Services
+9052d2bd-6809-4934-aba9-f55eec4213bb,2023-06-08,Withdrawal,1091.52,ACCT-9025,Withdrawal - Office Supplies,ABC Office Supplies
+cbb8c49a-e22f-4529-ba45-c399ec1ef1fc,2023-06-08,Payment,2700.0,ACCT-1573,Payment - Equipment,XYZ Tech Solutions
+7deecfd2-7aab-4300-84b3-68ed5794fb12,2023-06-08,Deposit,6151.84,ACCT-4008,Deposit - Services,ABC Office Supplies
+6ec450e8-6754-4eee-b5d9-631fc3b3db6d,2023-06-08,Purchase,4309.98,ACCT-2406,Purchase - Miscellaneous,ABC Office Supplies
+0f11fc81-8f2b-44e6-b1f9-e102a1b2c7e8,2023-06-09,Purchase,2868.6636,ACCT-7982,Purchase - Equipment,123 Cleaning Services
+76457b45-63e7-434c-ae81-c652a3cfe4d3,2023-06-09,Transfer,1113.4629,ACCT-5832,Transfer - Equipment,XYZ Tech Solutions
+bb5e89bd-558e-4639-92f6-22b2b3be8057,2023-06-09,Purchase,9111.48,ACCT-1724,Purchase - Miscellaneous,XYZ Tech Solutions
+363f7641-436f-4332-8595-4a679635caf1,2023-06-09,Deposit,3782.26,ACCT-8791,Deposit - Miscellaneous,123 Cleaning Services
+a6d978f5-913c-4445-b746-37436c1c2164,2023-06-10,Payment,2452.09,ACCT-4745,Payment - Equipment,XYZ Tech Solutions
+b19c32a2-5014-4f72-acc2-158efe482e64,2023-06-10,Transfer,2156.15,ACCT-8505,Transfer - Miscellaneous,123 Cleaning Services
+6248225f-2fa7-4d1f-85e7-4f869b08f974,2023-06-11,Payment,2264.95,ACCT-6507,Payment - Office Supplies,XYZ Tech Solutions
+f906b910-dc09-4be5-9488-0307eb1775d9,2023-06-11,Transfer,2710.6893,ACCT-4050,Transfer - Services,XYZ Tech Solutions
+3155da53-e3f5-4067-a270-c72213c75153,2023-06-11,Withdrawal,6516.95,ACCT-3929,Withdrawal - Services,XYZ Tech Solutions
+09a148b0-c001-4be0-9c87-bb1ac9c3c111,2023-06-11,Purchase,7116.803099999999,ACCT-6291,Purchase - Office Supplies,123 Cleaning Services
+6bde9f52-458e-4caf-b73d-bb42664d8269,2023-06-13,Payment,1896.1073999999999,ACCT-4877,Payment - Equipment,123 Cleaning Services
+e0326baf-170b-4f84-a7c9-a050b1a7cfbe,2023-06-14,Payment,2193.24,ACCT-6670,Payment - Services,XYZ Tech Solutions
+c1e286e9-5b77-4c41-be89-a700950ceebc,2023-06-14,Payment,5539.47,ACCT-7384,Payment - Services,123 Cleaning Services
+001d6495-8b30-4230-8ced-6a6477ca43d9,2023-06-14,Purchase,6855.27,ACCT-2762,Purchase - Office Supplies,123 Cleaning Services
+7fe99941-03f6-4800-aa5f-b02a0f4df170,2023-06-15,Payment,493.96,ACCT-7934,Monthly Utility Bill,City Power & Utilities
+bf41176d-7f69-40d6-84e8-4712da43b2eb,2023-06-15,Withdrawal,1743.5583000000001,ACCT-2649,Withdrawal - Equipment,ABC Office Supplies
+51cf1c37-88b1-444b-96a0-aa9311503be8,2023-06-15,Withdrawal,6462.027,ACCT-4728,Withdrawal - Equipment,XYZ Tech Solutions
+eb81f3bb-8f6b-408b-96eb-ab3d66ca3bf0,2023-06-15,Payment,4924.82,ACCT-2933,Payment - Office Supplies,ABC Office Supplies
+6b87f06c-2375-4ce1-8a7c-d75ebeaf0971,2023-06-15,Deposit,7235.26,ACCT-2734,Deposit - Equipment,ABC Office Supplies
+f8e677b8-f3b6-48b5-b6da-09ec283c20e5,2023-06-16,Deposit,2970.24,ACCT-3556,Deposit - Miscellaneous,ABC Office Supplies
+b8493ba3-9dd4-46c3-a62b-2bd8dfbbfa9c,2023-06-16,Withdrawal,6097.35,ACCT-6408,Withdrawal - Services,123 Cleaning Services
+2af9d067-f988-4b61-8856-6233194ffc2c,2023-06-16,Payment,9283.68,ACCT-5106,Payment - Office Supplies,123 Cleaning Services
+0c98ed07-9871-40ec-81e3-f9d1ce142ddb,2023-06-16,Purchase,6805.02,ACCT-8798,Purchase - Miscellaneous,ABC Office Supplies
+5f54a785-97f9-418b-a14a-58703419957d,2023-06-16,Transfer,2470.8222,ACCT-3665,Transfer - Miscellaneous,ABC Office Supplies
+e356f616-8948-4d13-8c5c-b90822107991,2023-06-16,Withdrawal,4827.9726,ACCT-9479,Withdrawal - Services,XYZ Tech Solutions
+dbbe782e-e326-4d07-a5c2-4c750012b88e,2023-06-17,Deposit,2560.93,ACCT-2840,Deposit - Miscellaneous,ABC Office Supplies
+83cd4eee-1244-4e3f-a623-adbfaafff75e,2023-06-17,Transfer,1858.75,ACCT-2476,Transfer - Office Supplies,XYZ Tech Solutions
+12cd986b-4eba-4691-94a1-45fa0dd28cdb,2023-06-18,Purchase,1125.77,ACCT-5329,Purchase - Services,ABC Office Supplies
+05be2924-44af-40f9-af1e-ea25e2b73505,2023-06-18,Transfer,9827.6508,ACCT-8805,Transfer - Office Supplies,123 Cleaning Services
+7af0f2cc-03da-4aac-b0a7-10f46b38f2ea,2023-06-18,Withdrawal,1776.78,ACCT-4472,Withdrawal - Office Supplies,ABC Office Supplies
+ecacbd6a-c461-49a8-bcc6-f814a3422757,2023-06-20,Deposit,4231.06,ACCT-4928,Deposit - Miscellaneous,123 Cleaning Services
+84af68b3-3afb-48f3-b311-79b8cc6985c3,2023-06-21,Payment,6312.76,ACCT-5062,Payment - Office Supplies,123 Cleaning Services
+1798a69a-bd00-458d-9e52-01a8ac4e76cc,2023-06-21,Purchase,2870.3070000000002,ACCT-5796,Purchase - Miscellaneous,XYZ Tech Solutions
+c77dc207-b79d-46c1-a5b5-52543b02023e,2023-06-21,Purchase,8647.84,ACCT-1345,Purchase - Miscellaneous,ABC Office Supplies
+436a4bbc-4d91-40ef-9dbe-6a9fc3ec0317,2023-06-21,Payment,1820.46,ACCT-9470,Payment - Office Supplies,ABC Office Supplies
+927854d3-e2e0-4f52-9a28-5e707d2af3d4,2023-06-22,Payment,8816.78,ACCT-5891,Payment - Office Supplies,123 Cleaning Services
+b3c8f06d-da9c-44fc-ad38-45bc88909146,2023-06-22,Payment,4770.78,ACCT-9085,Payment - Office Supplies,123 Cleaning Services
+9fe605df-6cd9-4ce4-a648-91421added72,2023-06-23,Withdrawal,1694.5533,ACCT-7429,Withdrawal - Office Supplies,ABC Office Supplies
+8cf1e47c-0974-4068-ae61-468edccb39c8,2023-06-23,Transfer,4256.4,ACCT-9143,Transfer - Miscellaneous,XYZ Tech Solutions
+c2274de3-5f07-4262-b3bf-f63fd60fb4a2,2023-06-23,Deposit,1408.8,ACCT-6421,Deposit - Miscellaneous,ABC Office Supplies
+af67e373-a579-4094-a034-2d05159d73cb,2023-06-23,Purchase,4700.3243760000005,ACCT-6850,Purchase - Miscellaneous,ABC Office Supplies
+cfb5a7c3-f6a4-48f1-b6da-30cb8676c873,2023-06-24,Transfer,8601.91,ACCT-2857,Transfer - Office Supplies,ABC Office Supplies
+fcc1e6bb-dfac-4c0a-be61-e818238ff409,2023-06-24,Purchase,6812.4474,ACCT-1615,Purchase - Services,XYZ Tech Solutions
+1f7fa2a3-ddfe-4562-aaa3-69e7568e939e,2023-06-24,Transfer,1173.0212999999999,ACCT-3459,Transfer - Office Supplies,ABC Office Supplies
+caf4e3f3-716e-4805-b191-4d2fd72f64a6,2023-06-24,Transfer,1455.71,ACCT-3863,Transfer - Equipment,XYZ Tech Solutions
+8d7c641d-2320-419d-b32d-f74294720196,2023-06-24,Withdrawal,1405.45,ACCT-3101,Withdrawal - Office Supplies,123 Cleaning Services
+35f2874f-04a2-4118-bc47-6ebbd0022ff9,2023-06-24,Payment,4608.23,ACCT-8474,Payment - Equipment,ABC Office Supplies
+9f2d91f0-d82c-4809-aea3-89da673b5f31,2023-06-24,Purchase,6231.789432,ACCT-1687,Purchase - Services,ABC Office Supplies
+56940a80-1eee-455e-b0c4-85375a3bb84e,2023-06-25,Purchase,2703.09,ACCT-1680,Purchase - Office Supplies,ABC Office Supplies
+28237c0c-44f9-4b1a-bff6-d5bed820a13a,2023-06-25,Transfer,9178.6959,ACCT-5627,Transfer - Services,123 Cleaning Services
+e5e9beb8-4ea2-4745-be7c-a324b6f3dba6,2023-06-25,Payment,1104.3054,ACCT-8112,Payment - Equipment,XYZ Tech Solutions
+c6f1a92a-a321-44ac-b21e-efdcb542ac4c,2023-06-25,Withdrawal,2988.84,ACCT-7476,Withdrawal - Services,XYZ Tech Solutions
+33f885cb-bdbd-4d49-a335-728b48ec9509,2023-06-26,Purchase,1789.7,ACCT-4359,Purchase - Equipment,ABC Office Supplies
+bc3c4bed-d31c-46c5-9bdb-41a34fafd85e,2023-06-26,Deposit,4416.26,ACCT-6747,Deposit - Office Supplies,ABC Office Supplies
+7fee4ed5-7c52-4141-aad9-731412bfcd5a,2023-06-27,Deposit,5038.3,ACCT-8385,Deposit - Office Supplies,ABC Office Supplies
+38aa9e84-f911-4868-8074-06a139c188d1,2023-06-27,Purchase,2547.5373,ACCT-2274,Purchase - Office Supplies,XYZ Tech Solutions
+8662bcde-82fd-427c-be9e-1fc436d0ef40,2023-06-27,Payment,1840.0437000000002,ACCT-2984,Payment - Office Supplies,123 Cleaning Services
+a8ab79bd-a007-4f7a-a22a-534b5631a235,2023-06-27,Payment,2071.6542,ACCT-7223,Payment - Miscellaneous,123 Cleaning Services
+5177d3f8-945a-4c25-8d55-55e8854bf8b0,2023-06-28,Transfer,2814.05,ACCT-8981,Transfer - Equipment,ABC Office Supplies
+1fbb3933-1bd1-4ac2-a484-6d95a0f8d5ac,2023-06-29,Purchase,4095.96,ACCT-7937,Purchase - Office Supplies,XYZ Tech Solutions
+55b93801-b50d-46b6-b62d-58baf3b9753f,2023-06-29,Payment,5060.94,ACCT-5816,Payment - Office Supplies,XYZ Tech Solutions
+7afe49fa-f818-40de-bc82-44d331abc263,2023-06-29,Deposit,4383.5,ACCT-1270,Deposit - Office Supplies,123 Cleaning Services
+d3086a34-1966-4cd1-acf7-ff67c7f71769,2023-06-29,Purchase,1463.94,ACCT-2387,Purchase - Services,123 Cleaning Services
+ddeea1f3-61e9-4c7b-b0f0-3006983e641d,2023-06-29,Purchase,7627.99,ACCT-2277,Purchase - Equipment,ABC Office Supplies
+16414874-e887-4c85-985e-0077af63c399,2023-06-29,Payment,1958.2893,ACCT-9430,Payment - Equipment,ABC Office Supplies
+8ea7f344-e00f-4e77-b811-08c6849d279f,2023-06-29,Deposit,3093.058386,ACCT-9081,Deposit - Office Supplies,XYZ Tech Solutions
+9f2a3032-1845-4996-b200-953b646b0a56,2023-06-29,Withdrawal,3102.9671969999995,ACCT-1697,Withdrawal - Miscellaneous,123 Cleaning Services
+c16410dc-af15-47a4-ad62-4e0bbb0cc522,2023-06-29,Payment,1497.2693669999999,ACCT-8086,Payment - Services,XYZ Tech Solutions
+4e647877-109f-4240-aaf0-730912170abc,2023-06-29,Transfer,1645.1622,ACCT-5183,Transfer - Equipment,ABC Office Supplies
+961d6e09-8b9c-4746-bbb2-d9d0d191b313,2023-06-30,Purchase,1383.09,ACCT-4547,Purchase - Equipment,123 Cleaning Services
+54bbc741-9a65-4ed3-a48f-dfc47c2a9054,2023-07-01,Payment,2092.72,ACCT-1969,Office Rent,Prime Office Rentals
+843b4cb1-965a-44b9-9c6c-dd15cd436800,2023-07-01,Deposit,4682.53,ACCT-8576,Deposit - Equipment,ABC Office Supplies
+efd14c1d-1c2c-4b02-ac6c-47eb13e7585a,2023-07-01,Transfer,2234.91,ACCT-1542,Transfer - Services,XYZ Tech Solutions
+6f09c7b3-d635-4ebf-b426-737ce609883e,2023-07-02,Deposit,1930.16,ACCT-8296,Deposit - Services,ABC Office Supplies
+,2023-07-02,Payment,3577.05,ACCT-9298,Payment - Services,ABC Office Supplies
+b51c7d36-706d-4994-9f10-60ae9e7e3113,2023-07-03,Purchase,2667.82,ACCT-1310,Purchase - Equipment,ABC Office Supplies
+c9f89f99-7b92-4cc3-84e5-640f764ffa62,2023-07-03,Withdrawal,3046.88,ACCT-2179,Withdrawal - Services,ABC Office Supplies
+90865c15-b51c-44be-8e2a-b9d8152506fe,2023-07-03,Transfer,2632.68,ACCT-6058,Transfer - Equipment,ABC Office Supplies
+861269f8-fe12-4c56-8d09-e9c49070e507,2023-07-03,Withdrawal,1211.3541,ACCT-5844,Withdrawal - Services,XYZ Tech Solutions
+19d14b4e-a26b-4743-a71d-7479757f2301,2023-07-05,Withdrawal,3373.76,ACCT-8539,Withdrawal - Services,ABC Office Supplies
+2cd06913-9d7a-460b-b1bb-b8602dd79082,2023-07-05,Withdrawal,6878.44,ACCT-7606,Withdrawal - Miscellaneous,XYZ Tech Solutions
+01d11b94-136f-4439-978c-956299d64040,2023-07-05,Purchase,1240.9749,ACCT-1169,Purchase - Miscellaneous,123 Cleaning Services
+698eff2a-bfb9-4771-b36e-9c387dd89ff8,2023-07-05,Payment,2190.52,ACCT-5187,Payment - Services,123 Cleaning Services
+9cfa8af4-84b6-422a-8d24-f6f9bfd6cae1,2023-07-05,Transfer,6929.85,ACCT-1612,Transfer - Miscellaneous,XYZ Tech Solutions
+8b853a1c-4d7a-44d1-bf0d-95bff65e6afc,2023-07-06,Deposit,1635.97,ACCT-5735,Deposit - Services,123 Cleaning Services
+540a1667-dd80-4c92-b8a4-e214e338b11b,2023-07-06,Withdrawal,6800.0,ACCT-2553,Withdrawal - Miscellaneous,ABC Office Supplies
+68032a9e-ebf7-40b3-9efc-fe256b83521b,2023-07-06,Withdrawal,1495.23,ACCT-8643,Withdrawal - Services,123 Cleaning Services
+9aa190f2-f36e-44df-bd4c-6f5163a8f3d4,2023-07-06,Deposit,1936.09,ACCT-5312,Deposit - Services,123 Cleaning Services
+6c73629e-5d9f-4752-b769-c7244a5ad27d,2023-07-06,Payment,6175.808099999999,ACCT-6078,Payment - Miscellaneous,123 Cleaning Services
+d8cb72a3-8fbf-45c5-9844-327603e40d0b,2023-07-06,Purchase,1634.140332,ACCT-6723,Purchase - Services,ABC Office Supplies
+7697041b-0bea-420c-aa18-e20bef913a3b,2023-07-06,Withdrawal,6847.19,ACCT-8691,Withdrawal - Office Supplies,123 Cleaning Services
+f3d82a60-cb6d-4811-b3c1-e5966f4601be,2023-07-06 00:59,Payment,6114.050018999999,ACCT-6078,Payment - Miscellaneous,123 Cleaning Services
+2dc91f8b-18fd-4f38-837b-469898944b65,2023-07-07,Purchase,1137.82,ACCT-8607,Purchase - Miscellaneous,123 Cleaning Services
+bef184c6-6990-4454-a313-1d4e50724e89,2023-07-07,Payment,1657.32,ACCT-3498,Payment - Services,123 Cleaning Services
+855190e4-1b80-493b-b441-4729ab9f9a47,2023-07-07,Withdrawal,2662.99,ACCT-8934,Withdrawal - Miscellaneous,ABC Office Supplies
+b5ec8bb0-6e87-4f27-8980-1b45d7213b1c,2023-07-08,Withdrawal,6959.54,ACCT-2702,Withdrawal - Office Supplies,123 Cleaning Services
+7891161e-c2f1-460f-ac77-046ae656f374,2023-07-08,Payment,3227.49,ACCT-9194,Payment - Miscellaneous,XYZ Tech Solutions
+c807a099-d93a-43be-a8b8-6749e826d79d,2023-07-09,Transfer,4120.360199999999,ACCT-9591,Transfer - Equipment,ABC Office Supplies
+9eecc358-d844-40e6-ada7-69c95421bddb,2023-07-09,Payment,3186.81,ACCT-3162,Payment - Miscellaneous,XYZ Tech Solutions
+aad835ed-3254-4179-9f2f-7c527bb2d84c,2023-07-10,Transfer,1257.69,ACCT-4793,Transfer - Miscellaneous,XYZ Tech Solutions
+1b11c622-70f7-4759-b9a2-4c3935a3f06e,2023-07-11,Transfer,2056.25,ACCT-3185,Transfer - Services,ABC Office Supplies
+de750beb-0b41-4c31-b44d-f3bb0d4e0e84,2023-07-11,Payment,1754.6958,ACCT-9145,Payment - Equipment,123 Cleaning Services
+5a8d08b3-a180-4f1f-93eb-23cbb1e79ad3,2023-07-11,Transfer,8667.84,ACCT-7138,Transfer - Office Supplies,XYZ Tech Solutions
+6f9536ae-7e31-40fe-b24c-c10e7449716f,2023-07-12,Purchase,4865.94,ACCT-4671,Purchase - Miscellaneous,ABC Office Supplies
+36b1e113-eceb-44a4-8e5e-4ab14667751f,2023-07-12,Withdrawal,2344.41,ACCT-4212,Withdrawal - Office Supplies,123 Cleaning Services
+e6d9fb5e-ce8d-4cd7-920c-e12e55d494b7,2023-07-14,Deposit,1141.23,ACCT-1819,Deposit - Office Supplies,123 Cleaning Services
+68a9ee21-00d4-44d4-8b14-ac0a50d157d0,2023-07-15,Payment,526.2090000000001,ACCT-8419,Monthly Utility Bill,City Power & Utilities
+f30c289b-0b57-46d7-a72c-e07ff27cb1b7,2023-07-15,Payment,2812.2731999999996,ACCT-3375,Payment - Office Supplies,ABC Office Supplies
+ec30fd2d-4c79-409a-90bd-36ef711b31d4,2023-07-15,Purchase,2916.99,ACCT-4903,Purchase - Office Supplies,123 Cleaning Services
+aaa5fe70-7482-4f52-8d2f-3c8676445f62,2023-07-15,Withdrawal,1093.9599,ACCT-3627,Withdrawal - Office Supplies,XYZ Tech Solutions
+57d9f62b-52f9-4ecb-829f-86c398eb070c,2023-07-16,Transfer,7926.57,ACCT-1890,Transfer - Office Supplies,123 Cleaning Services
+7617aa31-06e4-49ad-9abb-8fdefa3a95cd,2023-07-16,Transfer,4437.01,ACCT-1852,Transfer - Equipment,XYZ Tech Solutions
+5ede526b-9ec6-4cc7-8079-6105931b2748,2023-07-16,Purchase,1502.92,ACCT-5612,Purchase - Miscellaneous,XYZ Tech Solutions
+40745e50-f475-4bcd-ac29-818152f0241d,2023-07-16,Withdrawal,1021.97,ACCT-5246,Withdrawal - Office Supplies,XYZ Tech Solutions
+4ae534fd-608e-49c3-a9ff-86bca3798044,2023-07-18,Payment,1558.49,ACCT-4842,Payment - Equipment,123 Cleaning Services
+1efe5800-44df-4247-873a-748426191dc8,2023-07-18,Purchase,2166.61,ACCT-5302,Purchase - Equipment,XYZ Tech Solutions
+3e067a0a-2c76-4eb4-b187-afc345b493ee,2023-07-18,Deposit,4372.11,ACCT-5180,Withdrawal - Miscellaneous,ABC Office Supplies
+1bcae939-9190-4269-812f-49c5d2b4d45a,2023-07-19,Transfer,1852.45,ACCT-9958,Transfer - Equipment,XYZ Tech Solutions
+eb6a0834-30e5-4a29-be19-674fbb39ca4d,2023-07-19,Withdrawal,2128.7574000000004,ACCT-4140,Withdrawal - Services,XYZ Tech Solutions
+8db96a6f-a841-4ace-a886-09068f1335de,2023-07-20,Withdrawal,1125.94,ACCT-2031,Withdrawal - Equipment,XYZ Tech Solutions
+681e3e55-e5ca-4f51-b1a1-15046ee2c21c,2023-07-20,Purchase,1775.402145,ACCT-1349,Purchase - Miscellaneous,123 Cleaning Services
+176930cf-358f-41f6-89c6-d5f80ab3d622,2023-07-21,Deposit,3673.5335999999998,ACCT-6753,Deposit - Miscellaneous,XYZ Tech Solutions
+435dede6-ee20-4292-82f5-7915f82f93d6,2023-07-22,Transfer,1463.121,ACCT-9618,Transfer - Office Supplies,XYZ Tech Solutions
+bf82f474-a217-4c99-849b-06539b01c9df,2023-07-22,Transfer,2161.87,ACCT-1966,Client Entertainment,Gourmet Restaurant
+85316d4d-d947-43ba-a089-2f4c99c290a2,2023-07-22,Transfer,1921.0940099999998,ACCT-8073,Transfer - Office Supplies,123 Cleaning Services
+00145255-da50-4c0e-b250-1cdf30cbeb1a,2023-07-23,Transfer,3359.07,ACCT-6578,Transfer - Equipment,ABC Office Supplies
+a1833363-7682-425c-bd77-053b33dda9c4,2023-07-23,Transfer,1823.5008,ACCT-3769,Transfer - Equipment,123 Cleaning Services
+173543f7-6ae3-4950-920e-98fdc32c37c7,2023-07-24,Transfer,6597.28,ACCT-1936,Transfer - Miscellaneous,XYZ Tech Solutions
+5c602411-6b5b-474c-a29e-ac8973edb909,2023-07-25,Purchase,3289.83,ACCT-1401,Purchase - Office Supplies,XYZ Tech Solutions
+15aa2150-3fd1-4bf5-ba4d-b88869dc0b45,2023-07-25,Transfer,1396.7,ACCT-6599,Transfer - Miscellaneous,123 Cleaning Services
+b55890d9-a09f-4302-b8f6-f0cbe174ac3c,2023-07-25,Withdrawal,6482.01,ACCT-5265,Withdrawal - Office Supplies,ABC Office Supplies
+46a19d66-b1a6-4ba1-91c6-f86810ecd7ee,2023-07-26,Payment,1638.5,ACCT-1018,Payment - Equipment,123 Cleaning Services
+d12abf08-3a31-41ed-a4f9-716444f08f2f,2023-07-26,Transfer,2184.7914,ACCT-6817,Transfer - Equipment,XYZ Tech Solutions
+8a3f0a83-de50-4a56-9488-53f0c491c986,2023-07-26,Deposit,5753.998799999999,ACCT-9338,Deposit - Equipment,ABC Office Supplies
+4777966f-e047-4242-8b25-627ff2f35966,2023-07-27,Transfer,3444.64,ACCT-3000,Transfer - Services,123 Cleaning Services
+bdfb3a2c-a479-4239-b28c-3e9465b9a756,2023-07-28,Withdrawal,2769.3765,ACCT-7495,Withdrawal - Equipment,XYZ Tech Solutions
+acfbfff9-05d7-413d-ae40-4f1cc6f1ebf0,2023-07-28,Deposit,1831.02,ACCT-5308,Deposit - Equipment,ABC Office Supplies
+91e09363-fd2e-439a-91ed-5f55110e2b4e,2023-07-28,Purchase,5600.0,ACCT-8329,Purchase - Office Supplies,XYZ Tech Solutions
+4a689d56-27bc-41d8-b3a3-8b817cc903e6,2023-07-28,Transfer,1192.15,ACCT-4196,Transfer - Services,XYZ Tech Solutions
+4ff8b43c-7fa8-431c-9321-fdc055a7a1a4,2023-07-28,Withdrawal,1451.37,ACCT-6492,Withdrawal - Equipment,XYZ Tech Solutions
+275e8b1d-2eb1-4a48-9e2d-d14ef7a64b2a,2023-07-29,Withdrawal,3676.4937,ACCT-7178,Withdrawal - Services,ABC Office Supplies
+981c38f4-b971-4987-b23a-a60f44442795,2023-07-31,Withdrawal,52295.81,ACCT-4419,Withdrawal - Miscellaneous,123 Cleaning Services
+4ad2e1b8-5c8e-4af9-b677-d4401fa829a4,2023-07-31,Withdrawal,5669.59,ACCT-9912,Withdrawal - Equipment,ABC Office Supplies
+900034f9-f6cb-4df7-bee2-7688ac2ecf91,2023-07-31,Deposit,1729.8962999999999,ACCT-8869,Deposit - Equipment,123 Cleaning Services
+d400a819-f6e6-4823-a6a2-82df5a04cf3f,2023-08-01,Payment,1909.0061,ACCT-2774,Office Rent,Prime Office Rentals
+619163c3-9f94-4929-b1db-26863abfe7c9,2023-08-01,Transfer,6236.1,ACCT-3935,Transfer - Equipment,123 Cleaning Services
+5ab62763-f83f-4e85-a729-b529355eaade,2023-08-01,Transfer,9605.49,ACCT-5397,Transfer - Services,123 Cleaning Services
+a74fbae9-8bdd-4dcb-b66c-35c15c8079b9,2023-08-03,Deposit,3095.97,ACCT-2352,Deposit - Services,ABC Office Supplies
+b74625fd-dbc5-488e-b3e9-e5d9bb3d8256,2023-08-04,Transfer,5217.5,ACCT-1752,Transfer - Services,123 Cleaning Services
+b11dbcf6-0c5e-4645-ac10-8e1fa10eabf0,2023-08-04,Transfer,2609.6796,ACCT-5529,Transfer - Miscellaneous,ABC Office Supplies
+fe4719f7-f780-441b-9892-d5a7580f1b91,2023-08-04,Withdrawal,1561.12,ACCT-9406,Withdrawal - Miscellaneous,ABC Office Supplies
+8f17e4af-b8ec-49b9-9758-3201cb98467c,2023-08-05,Withdrawal,8100.38,ACCT-8213,Withdrawal - Office Supplies,XYZ Tech Solutions
+a531b722-5acf-4591-abb3-2e0e45c33e3a,2023-08-05,Transfer,7794.57,ACCT-7241,Transfer - Equipment,XYZ Tech Solutions
+d417743b-5541-4567-9cc8-fcf5ebabd422,2023-08-05,Deposit,6281.774531999999,ACCT-2798,Deposit - Office Supplies,XYZ Tech Solutions
+f85f796c-31c7-4719-8040-358e89a8304b,2023-08-06,Transfer,3190.0,ACCT-7998,Transfer - Office Supplies,ABC Office Supplies
+546dee7e-c4f8-4e10-9926-7d218428bda0,2023-08-06,Payment,6453.18,ACCT-9890,Payment - Equipment,XYZ Tech Solutions
+6c41a771-b66e-438b-995a-266d97f34827,2023-08-06,Purchase,1121.84,ACCT-7327,Purchase - Services,123 Cleaning Services
+786ecb8c-9cfb-4196-b752-0761b8194879,2023-08-07,Purchase,4598.01,ACCT-8156,Purchase - Miscellaneous,XYZ Tech Solutions
+de83b8e1-cd0f-4d73-9e4c-36f9c03d8ce8,2023-08-08,Payment,2901.6504,ACCT-3085,Payment - Miscellaneous,123 Cleaning Services
+8117b6cb-4192-484e-b959-3fca912e53bc,2023-08-08,Payment,1866.19,ACCT-4227,Payment - Equipment,123 Cleaning Services
+1c757f80-e171-48dc-b731-28186e9e577b,2023-08-08,Deposit,1091.3364,ACCT-7909,Deposit - Office Supplies,ABC Office Supplies
+9627ec21-9a16-40f3-acd6-71e3fc6b9ae1,2023-08-09,Withdrawal,1286.17,ACCT-7342,Withdrawal - Services,XYZ Tech Solutions
+583e493a-0398-4e27-9e76-b978bdce2961,2023-08-09,Withdrawal,1053.83,ACCT-3055,Withdrawal - Miscellaneous,XYZ Tech Solutions
+6f6fc9ca-12ee-43ff-92b5-3e0bd46d743a,2023-08-09,Transfer,1523.67,ACCT-9977,Transfer - Services,XYZ Tech Solutions
+f122458b-802d-4359-8247-32a58ba70747,2023-08-10,Transfer,6402.8462850000005,ACCT-6790,Transfer - Equipment,ABC Office Supplies
+ea2a7ee3-f502-43e5-a847-4218f46e43ef,2023-08-10,Deposit,1882.8407069999998,ACCT-1637,Deposit - Services,ABC Office Supplies
+13ef973c-af92-44f4-93be-59052a980236,2023-08-11,Payment,1535.8,ACCT-5357,Payment - Miscellaneous,ABC Office Supplies
+7a480cbf-8b1c-4377-ac7c-dcb4a92b11dc,2023-08-11,Transfer,6349.607252999999,ACCT-8957,Transfer - Office Supplies,ABC Office Supplies
+2aa99439-8500-454e-aaf3-12311ce5ee53,2023-08-11,Purchase,2334.52,ACCT-8860,Purchase - Services,123 Cleaning Services
+80b80007-11aa-4b7b-91bf-989b1ec96c1e,2023-08-12,Payment,6985.53,ACCT-9420,Payment - Equipment,123 Cleaning Services
+157873f0-0d4b-4992-a1a4-3716a3737a14,2023-08-12,Purchase,8373.895199999999,ACCT-5085,Purchase - Services,ABC Office Supplies
+54107a59-91a5-4baf-905a-809e0765b758,2023-08-12,Deposit,1663.39,ACCT-4148,Deposit - Miscellaneous,XYZ Tech Solutions
+f0932037-6eb8-45d3-9f71-2640dc93c118,2023-08-12,Withdrawal,8418.27,ACCT-6471,Withdrawal - Miscellaneous,123 Cleaning Services
+75cbdaca-7dde-42be-8234-bb6bc5145f06,2023-08-12,Withdrawal,2921.13,ACCT-8300,Withdrawal - Miscellaneous,123 Cleaning Services
+25d6433d-a2da-4129-8508-9a8c61f26f43,2023-08-12,Purchase,5105.63,ACCT-2786,Purchase - Equipment,123 Cleaning Services
+08268cdc-229a-4265-bf93-da85c86e27a8,2023-08-13,Payment,8549.66,ACCT-4950,Payment - Services,XYZ Tech Solutions
+2ea1a84e-1419-4a4b-b63d-684d0e7cc882,2023-08-13,Withdrawal,5649.22,ACCT-6723,Withdrawal - Equipment,123 Cleaning Services
+05424fe1-2678-41ad-9988-11ebc4180baa,2023-08-13,Transfer,9240.44,WRONG-354,Transfer - Services,XYZ Tech Solutions
+53db5d7f-5de8-4246-b15b-254bb3e6cb24,2023-08-13,Payment,2819.99,ACCT-9739,Payment - Services,XYZ Tech Solutions
+84393279-8444-4717-bad5-a058a1d64a98,2023-08-13,Purchase,5362.97,ACCT-3374,Purchase - Miscellaneous,123 Cleaning Services
+fc35dafc-ec13-40ce-8cf9-ef2d928eb3fa,2023-08-13 00:49,Transfer,9148.035600000001,ACCT-4197,Transfer - Services,XYZ Tech Solutions
+f0138a07-750f-4fea-8c5d-c4e412bb1433,2023-08-14,Withdrawal,8194.2,ACCT-1936,Withdrawal - Miscellaneous,ABC Office Supplies
+9ab9bc4d-2a1e-4281-a39e-bfe4b2f17059,2023-08-14,Transfer,7935.74,ACCT-9991,Transfer - Services,ABC Office Supplies
+9ef59b1e-640f-40cf-b8a7-d2898f932b79,2023-08-14,Deposit,6831.767447999999,ACCT-5848,Deposit - Office Supplies,XYZ Tech Solutions
+2c2762d3-4bed-4b3c-83ab-0b25284a9526,2023-08-15,Payment,515.889,ACCT-1679,Monthly Utility Bill,City Power & Utilities
+b1ca4096-bf0b-4469-9e77-5e12fe3944a4,2023-08-15,Payment,7257.294,ACCT-3334,Payment - Miscellaneous,XYZ Tech Solutions
+753dacf6-e246-49eb-a6d7-47b95be49f1d,2023-08-16,Deposit,8676.66,ACCT-8192,Deposit - Miscellaneous,XYZ Tech Solutions
+214e2846-1835-4e6c-9105-53b23b8c37df,2023-08-16,Withdrawal,1860.92,ACCT-7604,Withdrawal - Equipment,123 Cleaning Services
+275a4bfb-ffad-4696-9167-b59ac15c8dd9,2023-08-17,Deposit,2246.85,ACCT-1002,Deposit - Services,XYZ Tech Solutions
+27553049-8805-405a-a8ab-d7bdb2553751,2023-08-17,Purchase,8471.83,ACCT-1630,Purchase - Miscellaneous,ABC Office Supplies
+5b5bfd20-f231-4a3d-aebd-fa3b613b5d0a,2023-08-18,Purchase,1296.01,ACCT-9831,Purchase - Equipment,ABC Office Supplies
+8707766f-ac66-46da-8118-2ac4f80069b4,2023-08-18,Deposit,1014.79,ACCT-8728,Deposit - Services,ABC Office Supplies
+d1e4b3e9-8883-4979-93f7-1185bdeb9325,2023-08-18,Deposit,3165.77,ACCT-5311,Deposit - Equipment,ABC Office Supplies
+51c11cc2-ad45-47db-bac7-b2689d13bcc4,2023-08-18,Purchase,2769.28,ACCT-2989,Purchase - Miscellaneous,ABC Office Supplies
+1a942572-14c0-483a-a535-8f1a4f813c20,2023-08-19,Withdrawal,3732.0425999999998,ACCT-4825,Withdrawal - Office Supplies,ABC Office Supplies
+fd999885-654b-406e-8aa0-8f6bc3dbd755,2023-08-19,Transfer,5939.01,ACCT-7436,Transfer - Office Supplies,ABC Office Supplies
+0f733043-070c-4f9f-ba13-708a6d6ff494,2023-08-20,Transfer,1418.39,ACCT-9760,Transfer - Miscellaneous,XYZ Tech Solutions
+5c27cde4-491b-4e9a-9371-1c5d61f8932d,2023-08-21,Transfer,6866.42,ACCT-1795,Transfer - Office Supplies,123 Cleaning Services
+8908f96f-abd8-4be4-936f-3358b84596c1,2023-08-22,Transfer,8514.0,ACCT-2409,Transfer - Miscellaneous,123 Cleaning Services
+0c8c3c07-23f4-4ac9-97e7-e96825bda319,2023-08-22,Withdrawal,5788.52,ACCT-2290,Withdrawal - Miscellaneous,123 Cleaning Services
+f34b632c-b25a-4b94-804f-0b5e0e180aa8,2023-08-22,Deposit,9781.378200000001,ACCT-6576,Deposit - Services,123 Cleaning Services
+b1a3b046-60b4-41d1-9d06-23cf6074b2ba,2023-08-22,Purchase,3236.4882,ACCT-8827,Purchase - Equipment,ABC Office Supplies
+afef07e6-6150-4c8e-9eb7-434456b86cb2,2023-08-23,Withdrawal,6263.17,ACCT-4186,Withdrawal - Office Supplies,XYZ Tech Solutions
+31fb8c8f-cd70-42fb-afe4-8f3f4e078951,2023-08-23,Payment,3805.97,ACCT-2039,Payment - Equipment,ABC Office Supplies
+b383d940-6b43-4910-8156-a966e30c88e3,2023-08-23,Deposit,2844.4185,ACCT-3889,Deposit - Equipment,123 Cleaning Services
+683000c5-a8c3-4475-8014-8d93eeff1740,2023-08-23,Payment,2877.85,ACCT-2242,Payment - Office Supplies,ABC Office Supplies
+3631d802-0955-4dba-ace2-82f6b46b0808,2023-08-24,Payment,6142.12,ACCT-6583,Payment - Miscellaneous,XYZ Tech Solutions
+8456c194-ff2f-4439-9031-8ba1a5ad5ecd,2023-08-24,Transfer,2554.12,ACCT-2917,Transfer - Miscellaneous,ABC Office Supplies
+1ac032be-67dd-4856-bc73-001fbb3ab766,2023-08-24,Deposit,3687.87,ACCT-6823,Deposit - Equipment,ABC Office Supplies
+bfb059f2-47d8-4ac4-8968-7ba27b7231b9,2023-08-24,Withdrawal,4397.4216,ACCT-9353,Withdrawal - Equipment,ABC Office Supplies
+f52a6b83-4240-410d-87b2-703bc06c124b,2023-08-24,Transfer,992.9205000000001,ACCT-8305,Transfer - Services,123 Cleaning Services
+df1bba35-1095-4a10-9f2b-68803c6e4b7f,2023-08-25,Transfer,3411.12,ACCT-2974,Transfer - Office Supplies,ABC Office Supplies
+291c36ff-8f0a-4be4-95ab-6e82f6ba0965,2023-08-25,Transfer,1501.34,ACCT-4753,Transfer - Services,123 Cleaning Services
+af4d9676-1437-4a5a-8ade-d771bc56b35c,2023-08-26,Deposit,8529.45,ACCT-7704,Deposit - Equipment,XYZ Tech Solutions
+59e94b9b-08a8-48f0-bf5f-199f3947730e,2023-08-26,Transfer,4147.99,ACCT-1418,Transfer - Office Supplies,ABC Office Supplies
+ee7a658f-7b98-4359-b2f5-c10f02003c15,2023-08-26,Deposit,1433.04,ACCT-7841,Deposit - Miscellaneous,123 Cleaning Services
+fb08f982-9e0c-46bd-a765-df87933212a0,2023-08-26,Purchase,2687.64,ACCT-6674,Purchase - Office Supplies,123 Cleaning Services
+7278cc9a-f07d-4a43-92d9-4831e87e7f53,2023-08-26,Purchase,1546.61,ACCT-2664,Purchase - Office Supplies,XYZ Tech Solutions
+3523358a-ca30-4dae-a233-836e32098384,2023-08-26,Purchase,5403.1131,ACCT-6288,Purchase - Office Supplies,123 Cleaning Services
+2ca63a96-0d60-44dd-a48c-d476dd6d26b1,2023-08-27,Payment,9637.98,ACCT-4762,Payment - Services,ABC Office Supplies
+bdf9f7ed-e8bb-47ca-9df0-e09a046debb3,2023-08-27,Purchase,5197.36,ACCT-4166,Purchase - Equipment,123 Cleaning Services
+90763cff-a902-41dd-9c1a-2159fd80ada5,2023-08-28,Deposit,1852.18,ACCT-5610,Deposit - Miscellaneous,123 Cleaning Services
+0a19baa6-6cd1-4d46-96fd-c41c91bef2a9,2023-08-28,Purchase,1418.9669999999999,ACCT-8409,Purchase - Services,XYZ Tech Solutions
+bae6a1f8-aed8-462b-9dad-b7a4805eb34c,2023-08-29,Deposit,2481.41,ACCT-7239,Deposit - Equipment,123 Cleaning Services
+3577599d-4b28-4eba-9f3a-13671272c027,2023-08-29,Withdrawal,65614.94,ACCT-9709,Withdrawal - Office Supplies,123 Cleaning Services
+adf3e917-2e72-4f39-9cf0-6c08121d0af3,2023-08-30,Withdrawal,5623.35,ACCT-9120,Withdrawal - Equipment,123 Cleaning Services
+7fadd53e-4955-4807-a2dc-ad12c2f43cb7,2023-08-31,Withdrawal,2057.76,ACCT-2927,Withdrawal - Office Supplies,123 Cleaning Services
+20753a4a-d323-4a91-8d8e-fa9bf1b98d8a,2023-09-01,Payment,1892.0541999999998,ACCT-5352,Office Rent,Prime Office Rentals
+1f9a65cc-f6d9-41f4-9fd6-d01bf4c3c1f6,2023-09-01,Transfer,1680.73,ACCT-2160,Transfer - Services,ABC Office Supplies
+fa02a833-4f38-45da-80b6-232bd88b4f2d,2023-09-02,Withdrawal,1239.375654,ACCT-8550,Withdrawal - Services,123 Cleaning Services
+f7f0ed5b-1345-4f69-8c34-3747fdda7d84,2023-09-02,Withdrawal,8034.25,ACCT-8556,Withdrawal - Office Supplies,ABC Office Supplies
+8e47741a-9551-48b7-b22d-5ee5b30ac5c7,2023-09-02,Payment,2414.2437,ACCT-3077,Payment - Equipment,XYZ Tech Solutions
+f5bd7cff-421c-4810-8770-ecd28178a14d,2023-09-02,Purchase,2380.58,ACCT-3260,Purchase - Services,123 Cleaning Services
+c44d57f5-fc7a-42b4-9ff3-91474815f3ea,2023-09-02,Purchase,5806.56,ACCT-5165,Purchase - Equipment,XYZ Tech Solutions
+069d0c79-b504-48b4-bc44-e63cc19af52b,2023-09-03,Payment,7486.5087,ACCT-6038,Payment - Equipment,ABC Office Supplies
+dd5f7805-7b24-4f37-b973-59a36c260aa8,2023-09-03,Withdrawal,5629.0311,ACCT-9662,Withdrawal - Office Supplies,ABC Office Supplies
+ee7a966c-2fad-481e-ba7c-2249d8604f4b,2023-09-03,Withdrawal,7083.48,ACCT-7504,Withdrawal - Services,123 Cleaning Services
+4b9c8080-a21b-4dc4-92ca-496e9ff2b1c3,2023-09-03,Deposit,3829.33,ACCT-4737,Deposit - Miscellaneous,ABC Office Supplies
+712da353-4a76-472c-a281-84f218454246,2023-09-04,Payment,2251.6956,ACCT-1550,Payment - Miscellaneous,ABC Office Supplies
+d7c38d44-baf1-4fd2-9351-dc482748c8c6,2023-09-04,Transfer,6857.263,ACCT-3812,Transfer - Equipment,123 Cleaning Services
+d1ae002b-eaa0-4318-98f2-5bd64af2ce8a,2023-09-04,Deposit,4065.14,ACCT-2428,Deposit - Equipment,123 Cleaning Services
+af72d7d5-816d-4220-bb88-6904fa81d889,2023-09-04,Deposit,7010.59,ACCT-3094,Deposit - Equipment,123 Cleaning Services
+e56d5dab-c7cf-418a-95cd-f2be805e245d,2023-09-05,Deposit,3130.18,ACCT-6633,Deposit - Equipment,XYZ Tech Solutions
+7e104fb5-789a-44ac-aa7e-29eeadc0b27e,2023-09-05,Payment,4815.06,ACCT-5357,Payment - Equipment,123 Cleaning Services
+1c47f3e8-6cb3-46b6-8f96-fbdddee32b0d,2023-09-05,Deposit,4087.37,ACCT-9423,Deposit - Services,123 Cleaning Services
+59b48f83-da88-473d-a7a1-6be5450b0a90,2023-09-06,Withdrawal,1166.6,ACCT-1613,Withdrawal - Equipment,123 Cleaning Services
+b3f76f4c-c9f1-45ca-941a-40078d23ed39,2023-09-06,Purchase,9109.19,ACCT-7952,Purchase - Equipment,ABC Office Supplies
+5885b0f1-7b79-42fa-b081-3154f2f579b7,2023-09-06,Withdrawal,1624.14,ACCT-7124,Withdrawal - Miscellaneous,ABC Office Supplies
+e461ce21-3e23-4c52-bd36-f5baacfb212a,2023-09-06,Transfer,3216.86,ACCT-3090,Transfer - Equipment,ABC Office Supplies
+e9fe6f1b-291e-4fe5-9c1a-6997178149bb,2023-09-06,Withdrawal,2300.46,ACCT-6960,Withdrawal - Equipment,XYZ Tech Solutions
+03fe7044-b197-4de2-80b5-1d3495d80e21,2023-09-06,Purchase,2911.6989000000003,ACCT-4226,Purchase - Office Supplies,123 Cleaning Services
+6edc49de-ca28-463b-8439-25f888577442,2023-09-06,Transfer,3692.56,ACCT-9085,Transfer - Services,ABC Office Supplies
+b4d67ae4-227e-44f0-9eb7-bcf8abcb6fe8,2023-09-08,Deposit,5401.9,ACCT-5443,Deposit - Office Supplies,XYZ Tech Solutions
+b1b3e236-32a0-4e8d-99a5-704340597c6a,2023-09-08,Withdrawal,5393.36,ACCT-7655,Withdrawal - Equipment,ABC Office Supplies
+0b180b83-4489-4a80-8f4c-d0f1d7e89366,2023-09-09,Purchase,3541.1904,ACCT-7083,Purchase - Services,123 Cleaning Services
+37a7c5d9-f046-4ec3-b2ca-754bd0628498,2023-09-09,Transfer,8022.9501,ACCT-7097,Transfer - Office Supplies,123 Cleaning Services
+fddf1e01-c1c0-46d5-b63e-402480dadf63,2023-09-09,Withdrawal,1101.8601,ACCT-6915,Withdrawal - Office Supplies,123 Cleaning Services
+3b466b80-1d33-4f58-9c6d-660666703766,2023-09-09,Purchase,5921.85,ACCT-7335,Purchase - Services,XYZ Tech Solutions
+8937c0b8-f7c0-4c64-90e3-b8a78fbb2326,2023-09-10,Deposit,5062.632,ACCT-9364,Deposit - Services,123 Cleaning Services
+a1d9254c-cb21-4803-8faf-24c58f54d236,2023-09-10,Deposit,4632.46,ACCT-2724,Deposit - Services,XYZ Tech Solutions
+fe3de952-abe2-4857-a540-a89ec37d8bfb,2023-09-10,Payment,6126.4,ACCT-1224,Payment - Miscellaneous,XYZ Tech Solutions
+b0b535ba-b508-49b4-8b9a-d92de238cd20,2023-09-10,Transfer,4677.2748,ACCT-3936,Transfer - Services,XYZ Tech Solutions
+75abdf74-8f49-42d1-b49d-ce2620de2c46,2023-09-11,Deposit,2969.7723,ACCT-7734,Deposit - Equipment,123 Cleaning Services
+72b394a2-ba82-41ac-b45a-14a550ae8d21,2023-09-11,Withdrawal,1012.7,ACCT-7673,Withdrawal - Office Supplies,XYZ Tech Solutions
+6b269f23-246f-4e2f-9537-02a1f1430a1b,2023-09-11,Payment,9827.33,ACCT-6893,Payment - Office Supplies,123 Cleaning Services
+e4ee998f-b206-4806-8c88-a93d7383eff7,2023-09-11,Deposit,3748.3181999999997,ACCT-4116,Deposit - Equipment,123 Cleaning Services
+58896eb9-9a5d-4917-af91-9a64dbb1ddae,2023-09-11,Withdrawal,1311.0273,ACCT-9328,Withdrawal - Office Supplies,123 Cleaning Services
+4c4f7f5f-1051-4b3a-964d-b9bfb5703739,2023-09-12,Purchase,5920.1,ACCT-7128,Purchase - Office Supplies,XYZ Tech Solutions
+04c23431-7640-4d8e-87f1-6d952e62c4f1,2023-09-13,Purchase,1349.8056000000001,ACCT-3858,Purchase - Equipment,XYZ Tech Solutions
+a01f2fce-1605-462e-9708-0946eb3a63e2,2023-09-13,Payment,5100.77,ACCT-2078,Payment - Miscellaneous,XYZ Tech Solutions
+03d9b6f9-22b7-4e6a-a6e1-5b93d7fe0c44,2023-09-14,Deposit,1606.2074819999998,ACCT-6251,Deposit - Equipment,XYZ Tech Solutions
+bfb71ae8-8dbf-4797-9b99-8a24f2a8ad4f,2023-09-15,Payment,476.78549999999996,ACCT-7007,Monthly Utility Bill,City Power & Utilities
+04444afb-acfe-4098-a149-656883d44513,2023-09-15,Transfer,5573.01,ACCT-9074,Transfer - Miscellaneous,XYZ Tech Solutions
+0d45a0c7-b0c1-46e9-be19-2eef95d2fb34,2023-09-15,Deposit,2394.05,ACCT-8756,Deposit - Office Supplies,ABC Office Supplies
+97905017-efc0-4321-9f63-1199a7d20ad9,2023-09-16,Purchase,1487.21,ACCT-5207,Purchase - Office Supplies,123 Cleaning Services
+e38a839a-e7a5-4b0c-9c45-b9d83bc4477e,2023-09-16,Deposit,2986.67,ACCT-9124,Deposit - Office Supplies,XYZ Tech Solutions
+b479a484-1804-4fc4-8ab1-a04226e22767,2023-09-16,Payment,1951.79,ACCT-7223,Payment - Office Supplies,XYZ Tech Solutions
+e2aeffb3-afbd-4bb0-867d-7d46e6b4cfc1,2023-09-16,Transfer,1739.7072,ACCT-9876,Transfer - Services,ABC Office Supplies
+43790d31-3b58-40c1-84ae-628975ca0649,2023-09-17,Withdrawal,2188.5534,ACCT-2550,Withdrawal - Services,ABC Office Supplies
+561434df-e442-4af9-b28b-f3102775cf92,2023-09-17,Transfer,1730.1,ACCT-4429,Transfer - Equipment,123 Cleaning Services
+fd2e14a3-5580-4c28-8ab1-3967621ccc87,2023-09-18,Deposit,4199.44,ACCT-9423,Deposit - Office Supplies,XYZ Tech Solutions
+,2023-09-18,Withdrawal,6885.92,ACCT-8347,Withdrawal - Services,123 Cleaning Services
+a99e2710-db24-40dc-bb4c-20b0a0c8a4e2,2023-09-18,Transfer,1565.79,ACCT-4595,Transfer - Office Supplies,123 Cleaning Services
+c4a8be1f-28bf-42b0-8a1e-35a407e0ede5,2023-09-18 00:50,Withdrawal,6817.0608,ACCT-8347,Withdrawal - Services,123 Cleaning Services
+bd3571d9-f905-42d1-858d-e420b737f3c9,2023-09-19,Purchase,5381.866,ACCT-6168,Purchase - Office Supplies,XYZ Tech Solutions
+f835b293-bb23-412e-b369-082df7c2d7a9,2023-09-19,Deposit,2300.0,ACCT-9485,Deposit - Equipment,ABC Office Supplies
+a1ea0725-5964-4d81-a98b-5a7da898c2fd,2023-09-19,Purchase,1821.67,ACCT-3302,Purchase - Miscellaneous,XYZ Tech Solutions
+b01cf449-bb74-487e-a8fd-18bd0a879f8f,2023-09-19,Payment,3439.36,ACCT-2550,Payment - Equipment,XYZ Tech Solutions
+9621c46e-3aea-4880-aa46-a846f5457dfc,2023-09-19,Payment,5608.93,ACCT-9986,Payment - Services,123 Cleaning Services
+f5ca2e9a-5080-4da2-bf86-56d743f5e9c5,2023-09-20,Deposit,2529.73,WRONG-908,Deposit - Services,123 Cleaning Services
+675fc1ad-5107-411e-91b3-74ae7d57ebdd,2023-09-20,Payment,4552.53,ACCT-7905,Payment - Office Supplies,ABC Office Supplies
+013b1daa-544a-4c29-82d3-92006ce38497,2023-09-20,Deposit,9886.6944,WRONG-140,Deposit - Equipment,123 Cleaning Services
+4ae9836a-2588-4b12-87de-56d349b1e0fb,2023-09-21,Transfer,2534.68,ACCT-1206,Transfer - Equipment,XYZ Tech Solutions
+361e6aa4-37c3-4373-b95a-49dc50325faf,2023-09-21,Deposit,9172.993499999999,ACCT-1322,Deposit - Office Supplies,123 Cleaning Services
+86c841d9-ae47-472b-b36e-897e0401eba2,2023-09-21,Deposit,2779.5933,ACCT-1347,Deposit - Services,ABC Office Supplies
+cbfde5f9-3c12-4833-836d-438947fe730c,2023-09-21,Purchase,2392.36,ACCT-1991,Purchase - Office Supplies,123 Cleaning Services
+815a533b-d2bf-42fc-a283-991af3b81036,2023-09-21,Transfer,2503.62,ACCT-4112,Transfer - Equipment,XYZ Tech Solutions
+af6ee71c-da71-4868-abb9-27aa62682947,2023-09-21,Deposit,1961.05,ACCT-5239,Deposit - Office Supplies,XYZ Tech Solutions
+61c20e30-a068-4d5e-8252-8d30a92ffc73,2023-09-21,Withdrawal,2596.09,ACCT-5208,Withdrawal - Office Supplies,ABC Office Supplies
+3497ab9e-b24f-4921-a165-fa361969a4b4,2023-09-22,Deposit,7105.675499999999,ACCT-5394,Deposit - Services,123 Cleaning Services
+068e736b-f593-41b3-9039-45f2bc135101,2023-09-22,Payment,8317.68,ACCT-2401,Payment - Miscellaneous,XYZ Tech Solutions
+d85efc6e-0718-4c3f-ac8a-0dfde87357b2,2023-09-22,Deposit,8738.33,ACCT-5809,Deposit - Services,XYZ Tech Solutions
+65737a02-4e34-424b-b9ad-a09bf54abfac,2023-09-22,Withdrawal,3201.28,ACCT-8891,Withdrawal - Office Supplies,123 Cleaning Services
+be74527d-85fc-483f-b3ec-730e9346ea9a,2023-09-23,Withdrawal,4962.41,ACCT-9996,Withdrawal - Services,XYZ Tech Solutions
+bc4cef3b-cea7-4d0d-b5e4-467cac1e8120,2023-09-23,Purchase,1178.0406,ACCT-7726,Purchase - Miscellaneous,ABC Office Supplies
+0aa17ddf-6159-4d32-acf7-e5c69154b8f9,2023-09-23,Payment,2929.8852,ACCT-7813,Payment - Equipment,ABC Office Supplies
+4cf5e57b-294c-4d1a-adbc-37f03db5790b,2023-09-23,Payment,1454.34,ACCT-8175,Payment - Equipment,ABC Office Supplies
+90e7a784-6d4a-40ef-9afc-9d02e660092b,2023-09-24,Transfer,1553.21,ACCT-9005,Transfer - Miscellaneous,123 Cleaning Services
+0a5ac82d-1aaa-451a-9930-b042d356720a,2023-09-24,Purchase,1817.15,ACCT-1382,Purchase - Miscellaneous,ABC Office Supplies
+dcdf9469-6de9-4bab-adb3-b8ff734fd54c,2023-09-25,Purchase,2705.33,ACCT-2452,Purchase - Services,123 Cleaning Services
+0c48d8eb-3509-4545-85bf-90993482c430,2023-09-25,Deposit,1442.88,ACCT-2945,Deposit - Equipment,123 Cleaning Services
+e5b59b1c-4834-44f3-95bd-41a4377c684f,2023-09-25,Deposit,3780.5,ACCT-2450,Deposit - Equipment,XYZ Tech Solutions
+08579a2e-d51f-4853-a23a-41f95fc26145,2023-09-26,Transfer,2672.73,ACCT-9791,Transfer - Office Supplies,XYZ Tech Solutions
+d0f2a213-26bf-47f8-8f74-6311623d2be6,2023-09-27,Purchase,1565.99,ACCT-5508,Purchase - Equipment,123 Cleaning Services
+a326295b-8978-4cbf-95c7-c6a482bc1967,2023-09-27,Withdrawal,3478.16,ACCT-1402,Withdrawal - Miscellaneous,123 Cleaning Services
+37cd38e4-7f46-4870-95f7-5d61e8f29db7,2023-09-28,Deposit,8074.8,ACCT-2800,Deposit - Equipment,ABC Office Supplies
+d863bf58-b137-431c-b262-39f52f2d36c9,2023-09-28,Deposit,1384.81,ACCT-6988,Deposit - Miscellaneous,XYZ Tech Solutions
+4d9af4e8-3f91-4713-8703-c6077b6527e1,2023-09-28,Withdrawal,6208.141500000001,ACCT-3615,Withdrawal - Services,ABC Office Supplies
+13f6c195-a0f0-44e3-8cc2-d39e5c0dea33,2023-09-28,Transfer,1958.47,ACCT-9546,Transfer - Miscellaneous,ABC Office Supplies
+70351e5b-ee08-41cc-a3c3-20f51ffaa932,2023-09-29,Withdrawal,7162.13,ACCT-9401,Withdrawal - Equipment,XYZ Tech Solutions
+d45a38a6-2a54-4fe9-97a0-bebc7464ef10,2023-09-29,Transfer,6330.16,ACCT-3875,Transfer - Office Supplies,XYZ Tech Solutions
+c21a7a85-edce-4b82-a005-4595db405087,2023-09-29,Purchase,8782.012799999999,ACCT-5001,Purchase - Equipment,ABC Office Supplies
+664ddc6f-1d03-4325-8657-2d9640b3d83c,2023-09-29 00:14,Withdrawal,7162.13,ACCT-9401,Withdrawal - Equipment,XYZ Tech Solutions
+cd7d98ca-475d-432f-9f12-583ea2863b27,2023-09-30,Payment,5666.77,ACCT-9441,Payment - Equipment,123 Cleaning Services
+9cd41606-2d8e-4731-b059-b087560b5c9b,2023-09-30,Payment,1068.26,ACCT-7910,Payment - Office Supplies,XYZ Tech Solutions
+ea2ddf98-b4b3-4dde-b1af-dedb0da16246,2023-09-30,Deposit,5018.28,ACCT-9763,Deposit - Miscellaneous,XYZ Tech Solutions
+bd6c60e9-6381-4075-bab6-5bc2151867b7,2023-09-30,Deposit,6653.51,ACCT-9795,Deposit - Services,ABC Office Supplies
+703acaeb-b094-493e-b032-179082f4e503,2023-10-01,Payment,2056.5028,ACCT-2039,Office Rent,Prime Office Rentals
+f62b9ad8-36c2-4f4a-9176-ef74f9f06885,2023-10-01,Payment,4623.219999999999,ACCT-5336,Payment - Miscellaneous,123 Cleaning Services
+a154990c-7f99-44ab-ae1c-433128949f6f,2023-10-01,Deposit,1060.7553,ACCT-8022,Deposit - Miscellaneous,XYZ Tech Solutions
+c6a1218b-614d-4896-855c-49cf4fa21ef9,2023-10-01,Withdrawal,1703.55,ACCT-8894,Withdrawal - Office Supplies,ABC Office Supplies
+807af8f2-5375-4cc9-9e52-ec0dbf363449,2023-10-01 00:46,Payment,4575.027599999999,ACCT-5336,Payment - Miscellaneous,123 Cleaning Services
+dc7a89c6-e8c8-4674-b000-23a8ed700180,2023-10-02,Transfer,4205.34,ACCT-6755,Transfer - Services,123 Cleaning Services
+bb6f6177-ab18-452a-afda-6c3392d1d145,2023-10-03,Transfer,1005.99,ACCT-9468,Transfer - Miscellaneous,ABC Office Supplies
+d4706183-d3d8-4c39-8c0c-9fefd1cf21ba,2023-10-03,Purchase,4537.328399999999,ACCT-2479,Purchase - Services,XYZ Tech Solutions
+221b54cc-9604-49d1-970e-616c38293190,2023-10-03,Transfer,7649.47,ACCT-4833,Transfer - Services,123 Cleaning Services
+3ccd46a9-0dce-4ecd-b429-fb584f4c9498,2023-10-03,Deposit,3585.2355,ACCT-9135,Deposit - Miscellaneous,XYZ Tech Solutions
+c905c425-fbf0-40dc-bf20-1e3d86e5800b,2023-10-03,Payment,8703.2088,ACCT-2188,Payment - Services,123 Cleaning Services
+aea7dd4d-c716-4d53-8ca2-c46377922eda,2023-10-03,Transfer,1628.3,ACCT-6151,Transfer - Services,123 Cleaning Services
+ed667fb8-c401-43d2-9cb8-af79564cb0f6,2023-10-03,Transfer,7627.49,ACCT-8166,Transfer - Miscellaneous,123 Cleaning Services
+12dd5aa4-313f-40b2-b736-cee0b24f5385,2023-10-04,Transfer,8795.51,ACCT-8978,Transfer - Equipment,XYZ Tech Solutions
+d2251158-4050-4301-b7cb-aa9b406274fa,2023-10-04,Purchase,5155.08,ACCT-2272,Purchase - Services,ABC Office Supplies
+0199bc48-9a51-49a9-aa33-33f242f3acc4,2023-10-05,Deposit,1658.1609,ACCT-6309,Deposit - Services,123 Cleaning Services
+324cdfa9-e4d7-45f9-a8fe-77726e2cfca9,2023-10-05,Purchase,1465.94,ACCT-9827,Purchase - Office Supplies,XYZ Tech Solutions
+f4df8bb8-b7b7-46bf-b997-33042dfbafd3,2023-10-05,Purchase,5961.799800000001,ACCT-3999,Purchase - Office Supplies,123 Cleaning Services
+15f0d183-a1fb-4aa8-9bf0-3c1ae45db213,2023-10-06,Deposit,1274.35,ACCT-1163,Deposit - Services,ABC Office Supplies
+18456766-d5d3-4024-8033-53ea218833f5,2023-10-06,Withdrawal,1492.12,ACCT-6871,Withdrawal - Office Supplies,ABC Office Supplies
+52f8f472-0f96-4517-bcd6-491348975e29,2023-10-06,Withdrawal,5146.45,ACCT-3018,Withdrawal - Office Supplies,123 Cleaning Services
+3495c11e-1831-44dc-9b6e-2290e782e66e,2023-10-08,Purchase,1765.03,ACCT-1657,Purchase - Miscellaneous,ABC Office Supplies
+91882008-f015-4158-9c06-8c93ef4d9d74,2023-10-08,Purchase,8495.76,ACCT-7809,Purchase - Office Supplies,123 Cleaning Services
+81e831c2-d654-4c82-952b-fba7cf71b335,2023-10-09,Deposit,2882.79,ACCT-3078,Deposit - Office Supplies,123 Cleaning Services
+fc3a89b1-0f31-4dc1-83a1-39f75a3933fa,2023-10-10,Payment,9482.99,ACCT-6744,Payment - Services,ABC Office Supplies
+acb9c8ae-6b49-44af-87ce-e919c550d87a,2023-10-10,Transfer,1750.77,ACCT-2601,Transfer - Office Supplies,ABC Office Supplies
+c0338a9b-2603-45d1-8372-fd99f6410714,2023-10-10,Deposit,2918.03,ACCT-4424,Deposit - Services,123 Cleaning Services
+1c5bbbb7-ce42-4cf6-af99-bc8f9ef97241,2023-10-10,Payment,7350.19,ACCT-4786,Payment - Services,123 Cleaning Services
+445defcc-852b-4f0e-847f-b06e1b0672b7,2023-10-10,Withdrawal,4325.3298,ACCT-1210,Withdrawal - Services,123 Cleaning Services
+471b3e5b-c441-4b12-8ca4-ff3669a6179e,2023-10-11,Withdrawal,1921.93,ACCT-4436,Withdrawal - Office Supplies,XYZ Tech Solutions
+f99d1308-188f-4190-8a98-5572e26c573b,2023-10-11,Withdrawal,3113.5896,ACCT-1739,Withdrawal - Services,123 Cleaning Services
+fc65f8ab-f6c4-4a67-97ce-a358bc88d37b,2023-10-11,Withdrawal,8467.18,ACCT-1361,Withdrawal - Services,ABC Office Supplies
+70762496-639e-492f-a9be-db50a7e5516f,2023-10-12,Withdrawal,6724.872,ACCT-8442,Withdrawal - Equipment,XYZ Tech Solutions
+c499eec4-cdf4-4f20-a175-16bb84d8fbfc,2023-10-12,Payment,8231.2659,ACCT-1282,Payment - Miscellaneous,XYZ Tech Solutions
+078ac222-f1f7-4a7f-8bc0-20f23d5300cf,2023-10-12,Purchase,5885.14,ACCT-4019,Purchase - Services,123 Cleaning Services
+3a7e6dba-e1fe-4677-9a35-a2364ba2d1b8,2023-10-12,Purchase,6856.1559,ACCT-7829,Purchase - Services,XYZ Tech Solutions
+9f02f3e4-d1d2-4fe0-91d9-40299c8b6334,2023-10-12,Purchase,2749.79,ACCT-4607,Purchase - Services,ABC Office Supplies
+da69b8dd-3a9f-48f4-914f-1aebafe1c169,2023-10-12,Transfer,1538.92,ACCT-1888,Transfer - Equipment,123 Cleaning Services
+558fd3c6-7579-46fd-b8b9-07aa79e68f69,2023-10-13,Deposit,9131.46,ACCT-3206,Deposit - Office Supplies,123 Cleaning Services
+be69309c-4ad0-4a25-9bd1-79a410d75048,2023-10-14,Deposit,3833.0325,ACCT-7202,Deposit - Office Supplies,123 Cleaning Services
+7f159e13-39c7-4f7d-9d39-1326108674ff,2023-10-14,Payment,7559.2,ACCT-2540,Payment - Office Supplies,123 Cleaning Services
+a6285350-5038-4de0-9e89-e7c62a01c0c9,2023-10-14,Transfer,3123.4599000000003,ACCT-4734,Transfer - Equipment,XYZ Tech Solutions
+6af16b68-35b7-4c60-ab0e-ee28c83dd775,2023-10-15,Payment,513.3943999999999,ACCT-8796,Monthly Utility Bill,City Power & Utilities
+63b68d60-48bc-457b-b846-17afc55fff2d,2023-10-15,Withdrawal,2663.3,ACCT-3714,Withdrawal - Services,XYZ Tech Solutions
+92817c73-230e-4ab8-9b22-e8628b936765,2023-10-15,Purchase,1502.97,ACCT-6000,Purchase - Services,123 Cleaning Services
+dc7196c0-fdf6-4172-b4a4-a599683b27d7,2023-10-15,Purchase,1410.73,ACCT-1742,Purchase - Equipment,ABC Office Supplies
+e51176ff-b214-47c7-bbe1-456e753f7da1,2023-10-16,Withdrawal,3667.5441,WRONG-602,Withdrawal - Services,123 Cleaning Services
+e441328f-7d9d-42e1-801d-fc649af0cb77,2023-10-16,Deposit,1370.15,ACCT-5323,Deposit - Miscellaneous,123 Cleaning Services
+54d4c962-fab3-4398-9304-8915e0ea2942,2023-10-16,Purchase,8370.69,ACCT-1591,Purchase - Office Supplies,ABC Office Supplies
+824e0d73-0283-4684-a0b3-32b52272ca42,2023-10-16,Deposit,2939.57,ACCT-6394,Deposit - Services,ABC Office Supplies
+a924c970-a916-4dd0-9b9a-f05af2e4e207,2023-10-17,Deposit,1655.42,ACCT-1162,Deposit - Miscellaneous,XYZ Tech Solutions
+99a42ae9-5913-48eb-8786-654113fe3d06,2023-10-18,Transfer,3181.0283999999997,ACCT-3916,Transfer - Services,123 Cleaning Services
+a026341a-4326-41b5-9c43-9aaa71bd13c2,2023-10-18,Withdrawal,3698.632773,ACCT-8771,Withdrawal - Services,ABC Office Supplies
+5c6ce76d-3770-459d-9cd1-1d9424c22af7,2023-10-18,Payment,5540.27,ACCT-7918,Payment - Office Supplies,XYZ Tech Solutions
+2744fdef-9e49-4a9d-9508-b6bb60a68cd6,2023-10-18,Withdrawal,3891.25,ACCT-2875,Withdrawal - Office Supplies,123 Cleaning Services
+67994c60-ffb2-4373-ac96-9c70345b5b5c,2023-10-19,Transfer,1843.67,ACCT-4280,Transfer - Equipment,ABC Office Supplies
+87f9ee00-a158-484d-a1a6-46c775bfc502,2023-10-20,Deposit,2661.13,ACCT-2025,Deposit - Equipment,ABC Office Supplies
+e4ad6132-27b3-4d0e-8a0b-05363767deb9,2023-10-20,Withdrawal,7293.02,ACCT-9952,Withdrawal - Services,123 Cleaning Services
+cf80e6c2-0c65-42a6-92db-06179fc6d1d5,2023-10-20,Withdrawal,2122.97,ACCT-4446,Withdrawal - Equipment,123 Cleaning Services
+c8ce16ea-734f-4f78-9cb1-342f9f144036,2023-10-20,Deposit,1927.0548,ACCT-1986,Deposit - Equipment,ABC Office Supplies
+bf8f78c6-1fbe-4d2a-ac20-fa014d917f54,2023-10-21,Transfer,6981.031,ACCT-9428,Transfer - Miscellaneous,123 Cleaning Services
+2933a6e9-40e2-4eec-b1de-e6ed25f78897,2023-10-21,Withdrawal,8550.85,ACCT-2400,Withdrawal - Services,123 Cleaning Services
+74ced8b7-50b6-449c-8576-72c920ba8190,2023-10-21,Payment,6163.5024,ACCT-9429,Payment - Miscellaneous,XYZ Tech Solutions
+286ab3de-4da5-41ba-82cc-c8cddb789c3d,2023-10-21,Payment,1836.85,ACCT-1480,Payment - Miscellaneous,XYZ Tech Solutions
+bd71866c-9e34-410d-bf52-1c84bcf67f1f,2023-10-21,Payment,2985.6717,ACCT-1520,Payment - Office Supplies,ABC Office Supplies
+ed0d24bd-a19e-450e-bc65-d4d91c1df7a4,2023-10-21,Payment,3766.09,ACCT-9159,Payment - Office Supplies,123 Cleaning Services
+f282586c-8208-4591-82be-c960f86c5469,2023-10-21,Deposit,3878.25,ACCT-3680,Deposit - Equipment,XYZ Tech Solutions
+3b37f338-08f4-47e9-a7b4-c98484414520,2023-10-22,Deposit,2410.38,ACCT-7749,Deposit - Equipment,XYZ Tech Solutions
+06403432-5ce3-4263-96cb-898473052696,2023-10-22,Purchase,6452.93,ACCT-4110,Purchase - Office Supplies,ABC Office Supplies
+20dbfa91-56cd-494e-9bfa-0f292c36ccf4,2023-10-23,Transfer,1717.76,ACCT-3558,Transfer - Services,123 Cleaning Services
+d465ee74-542e-4fc3-8b0d-b2edec13468c,2023-10-24,Purchase,1905.59,ACCT-5221,Purchase - Services,XYZ Tech Solutions
+02a45abb-cdfd-48ac-a744-8bb90955df23,2023-10-24,Payment,1993.8,ACCT-7571,Payment - Services,XYZ Tech Solutions
+7bd8c32b-4c18-46ec-bd62-8b427b9ce8a2,2023-10-24,Payment,2041.24,ACCT-7243,Payment - Miscellaneous,XYZ Tech Solutions
+377190a4-b1d3-4999-8ac9-d77e059d21dd,2023-10-25,Payment,4387.7492999999995,ACCT-1981,Payment - Miscellaneous,XYZ Tech Solutions
+2c35dfc8-afc7-4e40-ba4d-7e744e310ffa,2023-10-26,Transfer,3605.31,ACCT-7036,Transfer - Office Supplies,XYZ Tech Solutions
+a2105598-e989-4fd5-95a2-dfc8aa39aa9c,2023-10-26,Payment,8668.99,ACCT-3681,Payment - Miscellaneous,XYZ Tech Solutions
+0e7b611e-60e5-49df-9132-ffb03ecccbca,2023-10-26,Deposit,1732.0644,ACCT-9490,Deposit - Office Supplies,XYZ Tech Solutions
+0f2ab559-7075-4c83-8e9c-ffeb306117ea,2023-10-27,Transfer,4671.57,ACCT-9778,Transfer - Services,XYZ Tech Solutions
+1d96de5f-13f6-4940-be54-672fe7d3902b,2023-10-28,Purchase,3072.4352999999996,ACCT-9010,Purchase - Equipment,123 Cleaning Services
+07dda3c4-819d-4216-b616-c55dcc30cf23,2023-10-28,Transfer,1702.82,ACCT-5280,Transfer - Equipment,ABC Office Supplies
+88511ddc-4fe4-496c-8ec8-567d7a63c527,2023-10-29,Deposit,1834.93,ACCT-2724,Deposit - Services,ABC Office Supplies
+ea67f2e2-ba17-4dbb-8401-800cd3e7fb11,2023-10-29,Withdrawal,3496.63,ACCT-9873,Withdrawal - Equipment,XYZ Tech Solutions
+d57aa611-20e1-4fa5-bcaf-de4746b2b8df,2023-10-29,Transfer,1021.03,ACCT-5631,Transfer - Services,XYZ Tech Solutions
+d5d48bca-7162-4ae4-b76d-a93d8d59ae06,2023-10-30,Purchase,3841.48,ACCT-3744,Purchase - Miscellaneous,123 Cleaning Services
+08cce779-6ca9-4be4-81bb-c2973814d7a7,2023-10-31,Purchase,4336.88,ACCT-1438,Purchase - Miscellaneous,XYZ Tech Solutions
+6ad2916c-28fc-4a87-80f8-8fb1a2153de5,2023-10-31,Transfer,7706.84,ACCT-5342,Transfer - Services,XYZ Tech Solutions
+e96c33e8-63dd-40d1-9b78-19e6371eddf2,2023-11-01,Payment,2050.6211,ACCT-6768,Office Rent,Prime Office Rentals
+2131b6ac-5ac2-4622-94e1-4135f0f67379,2023-11-01,Deposit,6382.4112000000005,ACCT-6275,Deposit - Office Supplies,XYZ Tech Solutions
+1c9289c9-685a-43ca-ad7b-99c880e27665,2023-11-01,Purchase,1613.3,ACCT-7871,Purchase - Miscellaneous,123 Cleaning Services
+629d0c0b-5379-497c-947a-b7589cd2941a,2023-11-01,Transfer,3893.6402999999996,ACCT-8377,Transfer - Office Supplies,123 Cleaning Services
+561ce9b6-ddd2-4b93-9ac3-01d0fe521c29,2023-11-01,Payment,8149.5909,ACCT-8085,Payment - Services,123 Cleaning Services
+1f543d59-fd07-4f7c-b25d-32eafd8342d3,2023-11-02,Purchase,8988.240000000002,ACCT-4637,Purchase - Equipment,123 Cleaning Services
+dc49a8da-d92b-4377-a4d7-ada3feeebe3a,2023-11-02,Payment,3072.09,ACCT-9183,Payment - Services,XYZ Tech Solutions
+3b00deb1-b071-47a6-8ba1-b7ceabbaa8a5,2023-11-02,Payment,1239.78,ACCT-5923,Payment - Equipment,123 Cleaning Services
+a8a20148-b534-4abf-a596-436f9af2e477,2023-11-03,Deposit,2724.22,ACCT-9342,Deposit - Services,123 Cleaning Services
+4baecc9e-006b-484e-aca1-e41090b215e4,2023-11-03,Payment,4547.17,ACCT-4997,Payment - Office Supplies,XYZ Tech Solutions
+34923e2d-60fb-4a12-956a-9e4b12b5fa9a,2023-11-03,Purchase,1678.69,ACCT-3500,Purchase - Office Supplies,ABC Office Supplies
+9156b5ee-429f-4c3e-b096-49c435ccefce,2023-11-03,Purchase,7693.04,ACCT-6284,Purchase - Services,XYZ Tech Solutions
+25993e65-5018-4f7a-b6f1-2361af2964de,2023-11-04,Transfer,5036.46,ACCT-5726,Transfer - Equipment,ABC Office Supplies
+164302e5-25ab-424d-bace-42dac0bc24df,2023-11-04,Payment,8062.58,ACCT-9097,Payment - Equipment,XYZ Tech Solutions
+099e05ef-cced-4ef0-8805-148c8678d38b,2023-11-05,Transfer,2341.53,ACCT-7538,Transfer - Equipment,ABC Office Supplies
+87e8ad23-46a0-479c-bd46-9950104770dd,2023-11-05,Transfer,3274.4646,ACCT-7307,Transfer - Services,ABC Office Supplies
+15889394-110e-4058-be7d-273d6af32b6a,2023-11-06,Withdrawal,1402.89,ACCT-4617,Withdrawal - Services,ABC Office Supplies
+b85e6d7b-22e3-4e26-9ed0-681801e97e82,2023-11-06,Payment,1138.21,ACCT-4596,Payment - Miscellaneous,123 Cleaning Services
+2b12cbb9-97ba-4aae-8d52-f40ed312c3b4,2023-11-07,Deposit,1614.85,ACCT-4531,Deposit - Services,ABC Office Supplies
+54c6e66c-4241-463b-90c5-df74111faecd,2023-11-07,Transfer,8759.19,ACCT-5616,Transfer - Services,123 Cleaning Services
+e49caeba-355b-44e3-9ae9-c6c84bd47199,2023-11-07,Withdrawal,5980.49,ACCT-5429,Withdrawal - Office Supplies,123 Cleaning Services
+24dcbef1-94cd-4187-81b6-293b2e8d18fd,2023-11-07,Deposit,1261.161,ACCT-1589,Deposit - Office Supplies,123 Cleaning Services
+1bf64424-2ce3-4345-84eb-bfcf1a494bef,2023-11-08,Purchase,8544.1,ACCT-4555,Purchase - Equipment,ABC Office Supplies
+c03b1534-0f7c-4cc4-9c8b-51b7d33eddd7,2023-11-08,Purchase,2075.8,ACCT-4041,Purchase - Miscellaneous,123 Cleaning Services
+006b8f48-3842-49f7-93b1-67305c2e8385,2023-11-09,Payment,3852.7,ACCT-2617,Payment - Miscellaneous,XYZ Tech Solutions
+26fbd0ae-9e96-4706-bb8b-edbffe908164,2023-11-09,Withdrawal,3254.1,ACCT-9020,Withdrawal - Services,XYZ Tech Solutions
+771a35e7-aef1-485f-a3e4-dcaccef99415,2023-11-10,Purchase,5590.9,ACCT-4226,Purchase - Miscellaneous,123 Cleaning Services
+8ac380a3-b9ed-4fd1-9594-e5bf8e641c87,2023-11-11,Deposit,2576.38,ACCT-4537,Office Decor,Gourmet Restaurant
+7e5b6f32-8aac-4e71-b802-5fd6b6845194,2023-11-11,Deposit,2742.23,ACCT-6060,Deposit - Services,XYZ Tech Solutions
+b983b708-6dec-481f-a884-1e226d662596,2023-11-11,Withdrawal,2247.25,ACCT-5733,Withdrawal - Services,123 Cleaning Services
+767d13db-2470-4d95-8254-d59eded12efb,2023-11-11,Payment,1915.889679,ACCT-2241,Payment - Miscellaneous,123 Cleaning Services
+d6e7a1c4-4770-4e00-92c3-145ca38f612f,2023-11-11,Purchase,1041.2622,ACCT-2610,Purchase - Office Supplies,123 Cleaning Services
+4c743963-d2de-49e6-8469-7b4c3efda5f6,2023-11-11,Purchase,8728.94,ACCT-4874,Purchase - Equipment,ABC Office Supplies
+69f95c5a-9d1a-41bb-8f9b-f63b3053875c,2023-11-12,Payment,3177.33,ACCT-7002,Payment - Services,ABC Office Supplies
+c34c39d1-7b4c-41d7-a0db-37733d021799,2023-11-12,Payment,1855.2699,ACCT-4810,Payment - Services,123 Cleaning Services
+d9c81ab3-4670-4e68-b955-76385e52f5d9,2023-11-12,Withdrawal,7183.5291,ACCT-7675,Withdrawal - Office Supplies,123 Cleaning Services
+50ee9963-7f41-48b0-b353-b6629fc03b69,2023-11-12,Deposit,1842.192,ACCT-7745,Deposit - Equipment,XYZ Tech Solutions
+c0024322-edd2-49b7-8909-05d12ccf4d3d,2023-11-12,Purchase,1030.35,ACCT-6413,Purchase - Miscellaneous,123 Cleaning Services
+286361b1-afff-4058-9a5d-a0c9e1adc27e,2023-11-14,Payment,4037.77,ACCT-1310,Payment - Miscellaneous,XYZ Tech Solutions
+68f7430f-4d0a-471e-b400-5f4338a4ba87,2023-11-14,Payment,1567.57,ACCT-2989,Payment - Services,123 Cleaning Services
+5c3b8539-c3be-4e4b-aaa4-27288100be3c,2023-11-14,Payment,4504.608899999999,ACCT-9576,Payment - Miscellaneous,ABC Office Supplies
+f18d18cd-bee2-434f-ae8a-9a4ba98d3ad7,2023-11-15,Payment,518.5489,ACCT-7634,Monthly Utility Bill,City Power & Utilities
+9fece6f1-3fed-4534-a556-a8c7b56f73e5,2023-11-15,Transfer,1650.66,ACCT-5838,Transfer - Office Supplies,XYZ Tech Solutions
+853987c8-1f03-44d5-a155-8fe9a1924523,2023-11-15,Payment,3783.57,ACCT-1495,Payment - Office Supplies,XYZ Tech Solutions
+e8291e5a-c51a-465c-8620-0171795ce398,2023-11-16,Deposit,9467.96,ACCT-7272,Deposit - Services,XYZ Tech Solutions
+519e28e6-3d79-4a75-a912-c16bf5a1417f,2023-11-16,Transfer,1354.0,ACCT-2857,Transfer - Miscellaneous,ABC Office Supplies
+c36d50dd-0986-42fc-a82a-0b0438f98cee,2023-11-16,Purchase,3630.94,ACCT-7029,Purchase - Office Supplies,ABC Office Supplies
+1b618e4b-f05b-4125-86e4-cc80b588f085,2023-11-16,Withdrawal,3967.1577,ACCT-8080,Withdrawal - Office Supplies,123 Cleaning Services
+1334f4de-424b-4654-b1ae-883ae52206de,2023-11-16,Withdrawal,1228.0851,ACCT-2101,Withdrawal - Equipment,XYZ Tech Solutions
+cf58eb82-6144-4a19-8b49-5c9a7edde91c,2023-11-16,Purchase,1175.28,ACCT-1021,Purchase - Equipment,XYZ Tech Solutions
+d7c488c7-e3a5-4b84-adea-d01b2cd2284d,2023-11-17,Payment,3563.73,ACCT-4099,Payment - Miscellaneous,123 Cleaning Services
+189825c1-02ce-4e27-a159-abd545c52e3c,2023-11-17,Withdrawal,6833.29,ACCT-1916,Withdrawal - Services,123 Cleaning Services
+82d7b3ba-913a-403d-af7e-bea2e5c74cfa,2023-11-17 00:26,Withdrawal,6764.9571,ACCT-1916,Withdrawal - Services,123 Cleaning Services
+fcabce75-0a25-46d8-a25f-929b5ceff84d,2023-11-18,Withdrawal,9642.402,ACCT-4590,Withdrawal - Office Supplies,XYZ Tech Solutions
+7e93842f-6a68-4f6c-ab45-4d0b2f4083c4,2023-11-19,Payment,3191.99,ACCT-1819,Payment - Miscellaneous,ABC Office Supplies
+45225901-b5d6-4e48-b6e6-948b33ce67d9,2023-11-20,Purchase,4064.5341000000003,ACCT-5326,Purchase - Office Supplies,ABC Office Supplies
+dfe30b9b-c178-447a-a139-e7ca09596597,2023-11-20,Transfer,1860.0417,ACCT-1126,Transfer - Equipment,XYZ Tech Solutions
+d9f28e12-3b36-47e2-a064-6e7cc6424dd2,2023-11-20,Withdrawal,1235.15,ACCT-6245,Withdrawal - Equipment,123 Cleaning Services
+5900c68e-d265-4a73-96d7-ded04f17a6b8,2023-11-21,Payment,6763.09,ACCT-7370,Payment - Miscellaneous,XYZ Tech Solutions
+bdc557a3-ca9c-4442-924a-7e6951badc16,2023-11-22,Deposit,1097.82,ACCT-3429,Deposit - Miscellaneous,123 Cleaning Services
+ce027e01-cece-436f-b122-1088b8822570,2023-11-22,Withdrawal,6435.346500000001,ACCT-3088,Withdrawal - Office Supplies,XYZ Tech Solutions
+7d361b8e-c039-4229-82f2-75317ef1a843,2023-11-22,Payment,1824.99,ACCT-1604,Payment - Equipment,ABC Office Supplies
+0ad4b44f-1b26-41f2-824b-6aab30f0c314,2023-11-23,Deposit,5733.5949,ACCT-8579,Deposit - Miscellaneous,123 Cleaning Services
+a81bdee2-42e3-478b-8fce-3a4074b912ae,2023-11-24,Payment,1849.12,ACCT-2135,Payment - Miscellaneous,123 Cleaning Services
+d851837d-1cdf-468b-961f-ac134d34e27d,2023-11-24,Withdrawal,8085.81,ACCT-7408,Withdrawal - Services,XYZ Tech Solutions
+de2e4f2a-0696-421b-9df6-5e24e137e3c9,2023-11-24,Transfer,1858.08,ACCT-2258,Transfer - Services,XYZ Tech Solutions
+8b5e6aa0-d09c-48cd-9534-012ea319eb08,2023-11-25,Transfer,1228.11,ACCT-6909,Transfer - Services,ABC Office Supplies
+2aff57c0-62f4-4284-b8d6-cd0b99b88cbb,2023-11-25,Purchase,4182.66,ACCT-6500,Purchase - Miscellaneous,ABC Office Supplies
+98bad99f-0fd3-40b2-8425-45fe02c82fb8,2023-11-26,Withdrawal,1328.1345,ACCT-6873,Withdrawal - Equipment,XYZ Tech Solutions
+27c00fa0-5fda-4e14-a39b-45a8828f1fa8,2023-11-26,Transfer,1138.38,ACCT-7914,Transfer - Office Supplies,ABC Office Supplies
+a2279267-dd14-4baa-92fe-584ca2eefa0b,2023-11-26,Purchase,5115.3,ACCT-6242,Purchase - Services,XYZ Tech Solutions
+08ea1dbb-b61e-4198-ba71-780bb100003b,2023-11-28,Payment,2077.1400000000003,ACCT-1309,Office Decor,Designer Clothing Co.
+3ede2ee7-a472-4810-9aff-dfb4054a0243,2023-11-28,Withdrawal,1209.879,ACCT-6756,Withdrawal - Equipment,123 Cleaning Services
+c746ba52-599f-47ba-8bab-813c410adb5d,2023-11-28,Payment,4110.37,ACCT-6684,Client Entertainment,Gourmet Restaurant
+4db39108-23df-48ed-9316-e46b132e7f15,2023-11-28,Payment,2513.64,ACCT-6675,Payment - Equipment,ABC Office Supplies
+c4c64999-25d2-497b-b37c-d596c4e3d067,2023-11-29,Deposit,6398.25,ACCT-9605,Deposit - Office Supplies,ABC Office Supplies
+bc8060fc-f115-4046-b10e-72f21b45d047,2023-11-29,Purchase,1731.45,ACCT-5083,Purchase - Equipment,123 Cleaning Services
+8bb43b4f-41bf-418f-9419-b4cdc237a18d,2023-11-29,Deposit,9148.41,ACCT-7294,Deposit - Services,XYZ Tech Solutions
+c3de238b-1e3c-451b-bbde-bea158ec7fb7,2023-11-29,Withdrawal,5268.7,ACCT-8602,Withdrawal - Equipment,ABC Office Supplies
+565d142e-de1f-4532-a45d-1376445bb7a5,2023-11-29,Transfer,2762.0108999999998,ACCT-6758,Transfer - Miscellaneous,XYZ Tech Solutions
+7d08be8f-f382-4056-9f22-b0a0071f4dd8,2023-11-29,Transfer,1365.18,ACCT-8179,Transfer - Miscellaneous,ABC Office Supplies
+617bc16b-8c2d-4a90-9558-3ca85c7441c4,2023-11-30,Withdrawal,5009.4891,ACCT-2707,Withdrawal - Miscellaneous,XYZ Tech Solutions
+44590a1c-2c84-41c2-85a6-61fb047dbe9c,2023-11-30,Payment,3725.42,ACCT-6047,Payment - Services,123 Cleaning Services
+95af5c16-46ca-453f-be45-48e9f293e2fd,2023-11-30,Transfer,1883.06,ACCT-2934,Transfer - Equipment,XYZ Tech Solutions
+38e43fd3-bebf-495c-bb8f-8835015071af,2023-11-30,Purchase,3140.27,ACCT-8080,Purchase - Services,123 Cleaning Services
+0471f187-0057-4547-a2fb-198d94d5e904,2023-11-30,Payment,1932.24,ACCT-9814,Payment - Office Supplies,XYZ Tech Solutions
+e260b374-a06c-4096-8aa2-78f23e3eae6b,2023-12-01,Payment,1962.9582,ACCT-3029,Office Rent,Prime Office Rentals
+255b80f0-c3bb-4d6f-ad86-c616cb00a84a,2023-12-01,Purchase,2799.64,ACCT-7961,Office Decor,Designer Clothing Co.
+8df8ad29-ab05-4d0e-a95e-848ef8c7dc09,2023-12-01,Withdrawal,6474.65,ACCT-7263,Withdrawal - Equipment,XYZ Tech Solutions
+bbfe0769-5b5f-44bb-8fb3-54677815538f,2023-12-01,Payment,1663.86,ACCT-8223,Payment - Services,ABC Office Supplies
+4fe933d9-41ee-46aa-aa9b-530d4351b313,2023-12-01,Purchase,1303.13,ACCT-5105,Purchase - Services,123 Cleaning Services
+76ada684-0d81-4047-bb53-b7251395278e,2023-12-02,Purchase,1434.91,ACCT-6122,Purchase - Office Supplies,XYZ Tech Solutions
+64465ea9-fd03-4ef9-84f4-43377579211d,2023-12-03,Deposit,1655.0819999999999,ACCT-8884,Deposit - Office Supplies,XYZ Tech Solutions
+f14cd380-199d-437d-9f6c-cf4b2b72a05b,2023-12-03,Purchase,2530.0341000000003,ACCT-2599,Purchase - Equipment,XYZ Tech Solutions
+31c2f4de-95e8-4876-91f8-02720e1b5336,2023-12-04,Deposit,1763.49,ACCT-9192,Deposit - Miscellaneous,123 Cleaning Services
+37f40e71-3c25-4035-956e-be51f3d6b9e4,2023-12-04,Withdrawal,1833.3,ACCT-4323,Withdrawal - Services,ABC Office Supplies
+15c12acb-a796-4eb6-8d89-92e79eb6b98f,2023-12-05,Transfer,1042.14,ACCT-2236,Transfer - Equipment,XYZ Tech Solutions
+4bea5f35-ac33-4f45-b856-0fb48e5b9ee4,2023-12-05,Purchase,2791.0476,ACCT-5125,Purchase - Equipment,ABC Office Supplies
+12aeef94-d419-4f65-83c9-3c03cafeffa0,2023-12-05,Deposit,5669.16,ACCT-7502,Deposit - Services,XYZ Tech Solutions
+fea03862-8798-46b4-9c24-76e5a538e872,2023-12-05,Purchase,2717.05,ACCT-9483,Purchase - Services,123 Cleaning Services
+87e781fe-76b3-4a29-8980-bdca96806c01,2023-12-05,Payment,2346.37,ACCT-9610,Payment - Miscellaneous,123 Cleaning Services
+038166bc-3c88-4429-b4ff-27e41f2374ef,2023-12-06,Purchase,3141.7,ACCT-1343,Purchase - Office Supplies,123 Cleaning Services
+e3dc8d11-8534-421b-b489-240e05fc8785,2023-12-06,Purchase,1955.7,ACCT-5618,Purchase - Services,XYZ Tech Solutions
+34df3a6b-3b79-455f-a15d-bf64f36f2ca5,2023-12-07,Withdrawal,1905.39,ACCT-4909,Withdrawal - Office Supplies,123 Cleaning Services
+bbe38afe-01c8-4bad-9ed0-e8736be876c5,2023-12-08,Transfer,1197.25,ACCT-8644,Transfer - Office Supplies,XYZ Tech Solutions
+b706d3a4-6267-4ec2-bba8-a439ec9bc949,2023-12-08,Payment,2723.3019,ACCT-3044,Payment - Equipment,ABC Office Supplies
+e63dbaa1-a163-497f-9977-14af85330feb,2023-12-08,Deposit,4300.03,ACCT-2330,Deposit - Miscellaneous,ABC Office Supplies
+283b113e-dde8-4150-95f0-d35ec2b49fd1,2023-12-09,Deposit,1748.33,ACCT-9443,Withdrawal - Miscellaneous,123 Cleaning Services
+f8c62f4c-73de-4890-a1e5-c352f5642cdb,2023-12-09,Purchase,5073.32,ACCT-5625,Purchase - Equipment,123 Cleaning Services
+16749187-02ee-4bc6-8bd2-f768876300ff,2023-12-09,Purchase,4275.65,ACCT-7074,Purchase - Services,ABC Office Supplies
+f642f155-dcc8-49f0-8df0-8546740f9151,2023-12-09,Payment,6721.51,ACCT-2949,Payment - Miscellaneous,XYZ Tech Solutions
+0d405880-9aed-4cc5-8d2a-206ce6239d64,2023-12-10,Transfer,2269.95,ACCT-1389,Transfer - Services,ABC Office Supplies
+484875e2-1404-4e82-bf91-94045173f768,2023-12-10,Purchase,1348.43,ACCT-1019,Purchase - Services,ABC Office Supplies
+b032f917-99fe-400c-96a4-349fad0e96a0,2023-12-10,Transfer,4915.874699999999,ACCT-2353,Transfer - Office Supplies,XYZ Tech Solutions
+164d9ab2-a9f2-48ca-be59-dca927184e1e,2023-12-10,Purchase,5438.44,ACCT-2134,Purchase - Miscellaneous,XYZ Tech Solutions
+f936c29e-1483-464a-a1bb-777b32d08e32,2023-12-12,Transfer,7615.22,ACCT-1866,Transfer - Services,XYZ Tech Solutions
+27698501-086e-43b5-b8ea-20c687cb0389,2023-12-13,Transfer,9229.75,ACCT-2580,Transfer - Equipment,123 Cleaning Services
+3dab12ce-1024-498c-90bd-a49b4b00b342,2023-12-14,Deposit,1050.45,ACCT-4360,Deposit - Miscellaneous,ABC Office Supplies
+a9d8f01a-1d30-49bb-8c18-92547cc9f2bf,2023-12-15,Payment,492.40000000000003,ACCT-5491,Monthly Utility Bill,City Power & Utilities
+83c1b81d-1a73-4cb8-9019-4635d932001c,2023-12-15,Purchase,1516.8186,ACCT-5797,Purchase - Miscellaneous,123 Cleaning Services
+dc331812-ef6f-4db7-85b1-8df2d0358bed,2023-12-15,Deposit,3517.7,ACCT-2775,Deposit - Services,XYZ Tech Solutions
+23ff027c-7803-40c1-86ce-ae2202057d6d,2023-12-15,Transfer,3581.16,ACCT-7872,Transfer - Office Supplies,XYZ Tech Solutions
+b3178f4b-c264-473e-9a99-9cbe75699260,2023-12-15,Payment,2230.53,ACCT-7451,Payment - Miscellaneous,123 Cleaning Services
+80eeb8e4-5b36-417b-bf6c-badfd6a63ea1,2023-12-15,Withdrawal,2672.53,ACCT-6165,Withdrawal - Office Supplies,ABC Office Supplies
+43184607-f81b-49c6-b812-42c1301a1ab1,2023-12-15,Deposit,8998.53,ACCT-4531,Deposit - Services,123 Cleaning Services
+2d96eec7-b2f7-4079-a466-c8bda59cd055,2023-12-16,Deposit,1672.73,ACCT-7523,Deposit - Office Supplies,ABC Office Supplies
+512fe116-8119-4bce-a468-1e40d13671a3,2023-12-17,Payment,1313.16,ACCT-5588,Payment - Equipment,123 Cleaning Services
+43791fc5-8d1d-4231-9d14-a6555585ee54,2023-12-17,Withdrawal,7645.0176,ACCT-4679,Withdrawal - Office Supplies,123 Cleaning Services
+1d985ce8-c725-481c-996f-e595047d5453,2023-12-18,Purchase,1190.99,ACCT-3591,Purchase - Equipment,XYZ Tech Solutions
+3d90bd29-3d26-4dfa-9f53-bccc605bd0b1,2023-12-18,Payment,9180.3393,ACCT-2833,Payment - Miscellaneous,123 Cleaning Services
+3363df8e-731c-4f3c-916c-f467b0566d90,2023-12-19,Payment,1033.85,ACCT-2792,Payment - Equipment,123 Cleaning Services
+fdf7c2aa-e816-41ac-bd1c-5592a63a7575,2023-12-19,Withdrawal,5313.17,ACCT-1873,Withdrawal - Equipment,ABC Office Supplies
+76fec950-70bb-45d8-8ec6-c1e80587767f,2023-12-19,Deposit,1002.78,ACCT-3079,Deposit - Services,XYZ Tech Solutions
+9de46d2d-9a42-486f-a5a4-7be53e5ebbac,2023-12-20,Payment,2107.54,ACCT-4168,Payment - Office Supplies,XYZ Tech Solutions
+c77fb1e1-2583-4793-a948-fd3336cbb248,2023-12-20,Transfer,7180.62,ACCT-7337,Transfer - Miscellaneous,XYZ Tech Solutions
+5a8ab93c-0bb6-4d73-b5f0-2f135f67da53,2023-12-21,Deposit,6174.66,ACCT-8243,Deposit - Miscellaneous,ABC Office Supplies
+36c25b58-48d0-4cc0-a984-94280a716dce,2023-12-21,Transfer,1555.73,ACCT-9782,Transfer - Miscellaneous,ABC Office Supplies
+b9cdea15-82b2-472d-87d8-bcfa8a718c53,2023-12-22,Transfer,3410.67,ACCT-6639,Transfer - Miscellaneous,XYZ Tech Solutions
+98740cbc-e59a-401e-949d-827040598f3b,2023-12-22,Payment,6286.87,ACCT-7432,Payment - Services,XYZ Tech Solutions
+9fb706fc-83f0-481b-9e64-96078cf24003,2023-12-22,Withdrawal,3455.26,ACCT-5636,Withdrawal - Services,ABC Office Supplies
+f2f82c5b-44be-48af-beb9-d04bf07cd508,2023-12-22,Deposit,5284.353,ACCT-7430,Deposit - Equipment,ABC Office Supplies
+20a4037f-a8b3-4119-a3b1-4e8cf17ca2ca,2023-12-23,Withdrawal,3160.5651,ACCT-2148,Withdrawal - Equipment,ABC Office Supplies
+0079861e-2d12-429e-8ed2-44d8af51457a,2023-12-23,Withdrawal,4093.72,ACCT-3387,Withdrawal - Miscellaneous,XYZ Tech Solutions
+4effc0e0-fbbd-4779-9be9-aa90c2dd0f38,2023-12-24,Payment,3614.84,ACCT-6831,Payment - Office Supplies,ABC Office Supplies
+d4f31224-3a41-4628-9cca-118c80b3fbb1,2023-12-24,Withdrawal,2663.82,ACCT-2212,Withdrawal - Equipment,ABC Office Supplies
+67d08cb8-1a58-425d-845b-4347d1a7231f,2023-12-25,Purchase,8704.42,ACCT-2647,Purchase - Equipment,ABC Office Supplies
+63999f2b-99e6-4144-9e26-ef36859834b4,2023-12-25,Transfer,1025.4,ACCT-1009,Transfer - Equipment,123 Cleaning Services
+1f4413b6-8767-4c21-9e8c-17a9eb4bddc2,2023-12-26,Purchase,1857.67,ACCT-6867,Purchase - Services,XYZ Tech Solutions
+4e3a45d6-b61f-4489-9cd6-9d43c05ad75b,2023-12-27,Deposit,9064.85,ACCT-1127,Deposit - Services,123 Cleaning Services
+c15fc1ae-4c24-4391-8fab-324db3ab6f15,2023-12-27,Payment,1143.5985,WRONG-854,Payment - Miscellaneous,123 Cleaning Services
+a32fefbe-cf74-4995-91f9-5febda294a2f,2023-12-28,Withdrawal,5812.66,ACCT-9200,Withdrawal - Office Supplies,XYZ Tech Solutions
+20a83c46-0fa2-4c25-96f9-c173830c50c4,2023-12-28,Deposit,5427.17,ACCT-1494,Deposit - Office Supplies,123 Cleaning Services
+59dd9153-851f-4b1c-a843-cdb401391499,2023-12-28,Deposit,2704.01,ACCT-4102,Deposit - Office Supplies,ABC Office Supplies
+01dbd8e7-8369-4cb2-a1a7-68c8582a71cd,2023-12-29,Payment,1512.94,ACCT-9630,Payment - Services,XYZ Tech Solutions
+0bd6ca5f-5476-4ad3-9297-72a80d370806,2023-12-29,Payment,2196.26,ACCT-4820,Payment - Services,ABC Office Supplies
+45ee4863-6dfd-45dd-8087-ef2a30c4b239,2023-12-29,Deposit,9542.64,ACCT-5491,Deposit - Equipment,ABC Office Supplies
+3b790345-b1fd-4cf4-bdf6-28653d9b5912,2023-12-29,Payment,9792.74,ACCT-1485,Payment - Equipment,XYZ Tech Solutions
+165a662d-a3d8-458d-9b84-18c2e537f8ca,2023-12-30,Payment,1773.7533,ACCT-7789,Payment - Office Supplies,123 Cleaning Services
+f6171372-3a86-4d93-90d6-dbebd1db6ec2,2023-12-30,Purchase,6954.21,ACCT-7916,Purchase - Equipment,XYZ Tech Solutions
+6513f7f1-d386-4389-810a-aae6b9dc1188,2023-12-30,Withdrawal,3628.52,ACCT-1734,Withdrawal - Services,XYZ Tech Solutions
+ec53d7fc-ac7b-4468-86e1-25bf69f7917a,2023-12-30,Deposit,4455.1,ACCT-5682,Deposit - Equipment,ABC Office Supplies
+73a002ac-ee61-4251-94df-0a554acd93e6,2023-12-30,Deposit,3254.04,ACCT-6063,Deposit - Miscellaneous,XYZ Tech Solutions
+50eb75c9-4809-4fa0-a093-a4ad1bf0d89d,2023-12-30,Purchase,1284.7131,ACCT-3608,Purchase - Equipment,ABC Office Supplies
+bd81176f-ca5b-4747-8a3d-8763eac0be8b,2023-12-31,Withdrawal,1385.55,ACCT-1342,Withdrawal - Miscellaneous,ABC Office Supplies
+7df349ae-2add-4230-85be-1b357d591442,2023-12-31,Purchase,7346.21,ACCT-9349,Purchase - Miscellaneous,ABC Office Supplies
+efdd5af5-e89e-41d0-a467-6cb380910a75,2023-12-31,Withdrawal,1191.67,ACCT-9809,Withdrawal - Services,XYZ Tech Solutions
+382f8121-9de7-4e22-88a4-be0c174324a9,2024-01-02,Deposit,3308.9,ACCT-5754,Deposit - Equipment,ABC Office Supplies
+1eaec0dd-fe5f-4d1d-8fe9-704be1a73375,2024-01-07,Purchase,8928.25,ACCT-7254,Purchase - Equipment,XYZ Tech Solutions
+f0f27924-5b10-4986-9711-b057ac923a1d,2024-01-10,Payment,8041.44,ACCT-2044,Payment - Office Supplies,ABC Office Supplies
+bd6417f2-35b4-4f2e-aaf4-28cbb18e2400,2024-01-14,Purchase,5181.39,ACCT-6738,Purchase - Services,XYZ Tech Solutions
+132d6dd7-2e48-4481-9ffd-3a48bd111d03,2024-01-16,Payment,6403.3893,ACCT-5204,Payment - Equipment,ABC Office Supplies
+f6e06b48-ce80-4e91-aef6-7bfbebbd75c8,2024-01-17,Purchase,1877.03,ACCT-1177,Purchase - Services,123 Cleaning Services
+24581c1b-0528-419d-8cdc-b07a7fdb0ef2,2024-01-19,Withdrawal,3331.7856,ACCT-3339,Withdrawal - Office Supplies,ABC Office Supplies
+205adcb1-07ab-46c1-b275-2078eb9aa5d9,2024-01-21,Purchase,5377.339,ACCT-4675,Purchase - Miscellaneous,ABC Office Supplies
+eb0a21f0-0246-49dd-91a7-229f6d5e72c1,2024-01-23,Transfer,70427.30052599999,ACCT-4928,Transfer - Services,ABC Office Supplies
+e5e93d75-c9d7-42d4-bcdf-5383554d1569,2024-01-24,Payment,2128.0842,ACCT-5411,Payment - Services,123 Cleaning Services
