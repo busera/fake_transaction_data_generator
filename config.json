@@ -1,0 +1,44 @@
+{
+    "num_transactions": 10000,
+    "start_date": "2023-01-01",
+    "end_date": "2023-12-31",
+    "irregularity_percentage": 0.05,
+    "cumulative_threshold": 0.005,
+    "enabled_irregularities": [
+        "high_amount",
+        "frequency_change",
+        "double_spend",
+        "missing_id",
+        "incorrect_date",
+        "mismatched_description",
+        "wrong_account",
+        "personal_expense",
+        "benford_violation",
+        "subtle_skimming",
+        "seasonal_anomaly",
+        "round_number_bias",
+        "cumulative_irregularity"
+    ],
+    "vendors": [
+        "ABC Office Supplies", "XYZ Tech Solutions", "123 Cleaning Services",
+        "Global Shipping Co.", "City Power & Utilities", "Mega Insurance Inc.",
+        "Top Catering Company", "Prime Office Rentals", "Fast Internet Provider",
+        "Reliable Security Systems"
+    ],
+    "personal_vendors": [
+        "Luxury Resort & Spa", "Designer Clothing Co.", "Gourmet Restaurant",
+        "High-End Electronics Store", "Exclusive Golf Club"
+    ],
+    "personal_expense_descriptions": [
+        "Team Building Retreat", "Client Entertainment",
+        "Office Decor", "Employee Wellness Program",
+        "Business Conference", "Professional Development",
+        "Travel Expenses", "Misc. Business Supplies"
+    ],
+    "recurring_transactions": [
+        {"vendor": "City Power & Utilities", "amount": 500, "day": 15, "description": "Monthly Utility Bill"},
+        {"vendor": "Prime Office Rentals", "amount": 2000, "day": 1, "description": "Office Rent"},
+        {"vendor": "Fast Internet Provider", "amount": 200, "day": 10, "description": "Internet Subscription"},
+        {"vendor": "Mega Insurance Inc.", "amount": 300, "day": 5, "description": "Insurance Premium"}
+    ]
+}
