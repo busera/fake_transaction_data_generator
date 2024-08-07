@@ -16,7 +16,7 @@
             "count": 2
         },
         "incorrect_date": {
-            "count": 10
+            "count": 8
         },
         "mismatched_description": {
             "count": 10
@@ -31,7 +31,7 @@
             "count": 10
         },
         "subtle_skimming": {
-            "count": 30
+            "count": 10
         },
         "seasonal_anomaly": {
             "count": 10
@@ -41,7 +41,7 @@
         },
         "cumulative_irregularity": {
             "enabled": true,
-            "count": 36,
+            "count": 10,
             "threshold": 0.005
         }
     },

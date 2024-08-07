@@ -156,13 +156,13 @@ def apply_irregularities(transactions, config):
 
     random.shuffle(irregularities_to_apply)
     
-    print(f"Irregularities to apply: {irregularities_to_apply}")
+    #print(f"Irregularities to apply: {irregularities_to_apply}")
 
     for irregularity_type in irregularities_to_apply:
         index = random.randint(0, len(transactions) - 1)
         description = irregularity_functions[irregularity_type](transactions, index, config)
         applied_irregularities.append((transactions[index][0], irregularity_type, description))
-        print(f"Applied {irregularity_type}: {description}")
+        #print(f"Applied {irregularity_type}: {description}")
 
     return applied_irregularities
 
@@ -537,7 +537,7 @@ def main():
     transactions, irregularities = generate_transactions(config)
     
     print(f"Number of irregularities before saving: {len(irregularities)}")
-    print(f"First few irregularities: {irregularities[:5]}")  # Print the first 5 irregularities
+    #print(f"First few irregularities: {irregularities[:5]}")  # Print the first 5 irregularities
 
     save_to_csv(transactions, args.output)
     save_irregularities_to_csv(irregularities, args.anomalies)
